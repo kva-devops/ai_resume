@@ -1,0 +1,2204 @@
+[
+  {
+    "file": "CV_001_Алексеев_Алексей.pdf",
+    "candidate_id": "CV_001_Алексеев_Алексей",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Java 8+ указан в стеке рабочих проектов; есть свидетельства качества разработки (review или общие компоненты). Детали JVM, concurrency и коллекций не раскрыты.",
+        "quotes": [
+          "Java 21"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Spring указан в рабочих проектах вместе с конкретной backend-работой; устройство Spring-компонентов и их реализация не детализированы.",
+        "quotes": [
+          "Spring Core",
+          "Spring Web",
+          "Spring Boot"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 3,
+        "status": "partial",
+        "explanation": "СУБД указана в рабочем стеке; конкретные запросы, схемы, транзакции и результаты оптимизации не раскрыты.",
+        "quotes": [
+          "MySQL",
+          "Oracle",
+          "ClickHouse"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Описана практическая разработка микросервисов, API/контрактов или интеграция сервисов; сложные распределённые гарантии и архитектурные компромиссы не раскрыты.",
+        "quotes": [
+          "Kafka Streams",
+          "REST",
+          "JSON",
+          "Protobuf",
+          "gRPC",
+          "участие в проектировании архитектуры сервисов"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Явно указано написание unit- и интеграционных тестов и перечислены тестовые инструменты.",
+        "quotes": [
+          "JUnit 5",
+          "WireMock",
+          "REST Assured",
+          "Mockito",
+          "написание unit- и интеграционных тестов"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Есть явная настройка CI/CD и контейнеризация; инструменты поставки/наблюдаемости перечислены, измеримые результаты не приведены.",
+        "quotes": [
+          "Docker",
+          "ELK",
+          "Kubernetes",
+          "Prometheus",
+          "Git",
+          "Maven",
+          "настройка CI/CD и контейнеризация приложений",
+          "автоматизировал выпуск релизов и сократил его до 20 минут"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 3,
+        "status": "partial",
+        "explanation": "В стеке рабочих проектов указаны Kafka Streams, Protobuf, gRPC, LangChain4j, AI-агенты; конкретный сценарий их реализации и результат не раскрыты. Бонус начислен один раз.",
+        "quotes": [
+          "Kafka Streams",
+          "Protobuf",
+          "gRPC",
+          "LangChain4j",
+          "AI-агенты"
+        ]
+      }
+    ],
+    "score": 76.0,
+    "summary": "Подтверждён коммерческий опыт Java/Spring backend. Требуют уточнения: Базы данных, Дополнительные технологии. Итог отражает только полноту дословных свидетельств в резюме; решения о найме нет."
+  },
+  {
+    "file": "CV_002_Зайцев_Даниил.pdf",
+    "candidate_id": "CV_002_Зайцев_Даниил",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Java 8+ указан в стеке рабочих проектов; есть свидетельства качества разработки (review или общие компоненты). Детали JVM, concurrency и коллекций не раскрыты.",
+        "quotes": [
+          "Java 8",
+          "разработка и сопровождение микросервисов на Java",
+          "подготовил библиотеку общих компонентов для 5 команд"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Spring указан в рабочих проектах вместе с конкретной backend-работой; устройство Spring-компонентов и их реализация не детализированы.",
+        "quotes": [
+          "Spring Security",
+          "Spring Boot",
+          "Spring Core",
+          "Spring Data",
+          "разработка и сопровождение микросервисов на Java",
+          "проектирование REST API и интеграционных контрактов"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 3,
+        "status": "partial",
+        "explanation": "СУБД указана в рабочем стеке; конкретные запросы, схемы, транзакции и результаты оптимизации не раскрыты.",
+        "quotes": [
+          "PostgreSQL",
+          "ClickHouse"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Описана практическая разработка микросервисов, API/контрактов или интеграция сервисов; сложные распределённые гарантии и архитектурные компромиссы не раскрыты.",
+        "quotes": [
+          "REST",
+          "JSON",
+          "разработка и сопровождение микросервисов на Java",
+          "проектирование REST API и интеграционных контрактов",
+          "участие в проектировании архитектуры сервисов"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 3,
+        "status": "partial",
+        "explanation": "Тестовые инструменты перечислены в рабочем стеке; конкретное написание тестов и измеримый результат тестирования не описаны.",
+        "quotes": [
+          "Mockito",
+          "Testcontainers",
+          "WireMock"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Есть явная настройка CI/CD и контейнеризация; инструменты поставки/наблюдаемости перечислены, измеримые результаты не приведены.",
+        "quotes": [
+          "Maven",
+          "Kubernetes",
+          "Git",
+          "ELK",
+          "Grafana"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 1,
+        "status": "partial",
+        "explanation": "Подтверждено только изучение Kafka Streams/Protobuf по документации и учебным примерам; прямой практический опыт явно отрицается.",
+        "quotes": [
+          "Прямого опыта с Kafka Streams и Protobuf нет; изучал документацию и учебные примеры."
+        ]
+      }
+    ],
+    "score": 72.0,
+    "summary": "Подтверждён коммерческий опыт Java/Spring backend. Требуют уточнения: Базы данных, Тестирование, Дополнительные технологии. Итог отражает только полноту дословных свидетельств в резюме; решения о найме нет."
+  },
+  {
+    "file": "CV_003_Морозов_Максим.pdf",
+    "candidate_id": "CV_003_Морозов_Максим",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Java 8+ указан в стеке рабочих проектов; есть свидетельства качества разработки (review или общие компоненты). Детали JVM, concurrency и коллекций не раскрыты.",
+        "quotes": [
+          "Java 11",
+          "проведение code review и декомпозиция задач",
+          "провожу code review"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Spring указан в рабочих проектах вместе с конкретной backend-работой; устройство Spring-компонентов и их реализация не детализированы.",
+        "quotes": [
+          "Spring Web",
+          "Spring Data",
+          "Spring Security",
+          "проектирование REST API и интеграционных контрактов"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 3,
+        "status": "partial",
+        "explanation": "СУБД указана в рабочем стеке; конкретные запросы, схемы, транзакции и результаты оптимизации не раскрыты.",
+        "quotes": [
+          "Oracle"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Описана практическая разработка микросервисов, API/контрактов или интеграция сервисов; сложные распределённые гарантии и архитектурные компромиссы не раскрыты.",
+        "quotes": [
+          "RabbitMQ",
+          "REST",
+          "JSON",
+          "проектирование REST API и интеграционных контрактов",
+          "интеграция сервисов через брокеры сообщений"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Явно указано написание unit- и интеграционных тестов и перечислены тестовые инструменты.",
+        "quotes": [
+          "JUnit 5",
+          "Testcontainers",
+          "REST Assured"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Практика поставки подтверждена измеримым ускорением сборки до 7 минут или автоматизацией выпуска релизов до 20 минут.",
+        "quotes": [
+          "Docker",
+          "Grafana",
+          "Kubernetes",
+          "Gradle",
+          "Jenkins",
+          "ускорил сборку проекта с 18 до 7 минут"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 0,
+        "status": "contradiction",
+        "explanation": "Коммерческая разработка AI-агентов явно отрицается; других целевых бонусных технологий не подтверждено. OpenAI API сам по себе не доказывает работу с агентами.",
+        "quotes": [
+          "AI-агентов в коммерческих проектах не разрабатывал."
+        ]
+      }
+    ],
+    "score": 75.0,
+    "summary": "Подтверждён коммерческий опыт Java/Spring backend. Сильные стороны: Инструменты поставки. Требуют уточнения: Базы данных, Дополнительные технологии. Итог отражает только полноту дословных свидетельств в резюме; решения о найме нет."
+  },
+  {
+    "file": "CV_004_Фомин_Тимофей.pdf",
+    "candidate_id": "CV_004_Фомин_Тимофей",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Java 8+ указан в стеке рабочих проектов; есть свидетельства качества разработки (review или общие компоненты). Детали JVM, concurrency и коллекций не раскрыты.",
+        "quotes": [
+          "Java 17",
+          "проведение code review и декомпозиция задач"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Spring указан в рабочих проектах вместе с конкретной backend-работой; устройство Spring-компонентов и их реализация не детализированы.",
+        "quotes": [
+          "Spring Security",
+          "Spring Web"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Практика работы с данными подтверждена оптимизацией запросов/схем либо измеримым снижением нагрузки; подробности решений и транзакций не раскрыты.",
+        "quotes": [
+          "Redis",
+          "PostgreSQL"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Есть практическая архитектурная/интеграционная работа и измеримый результат: миграция монолита на 6 сервисов или обработка 4000 сообщений/с.",
+        "quotes": [
+          "RabbitMQ",
+          "REST",
+          "JSON",
+          "участие в проектировании архитектуры сервисов",
+          "реализовал обработку до 4 000 сообщений в секунду"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 3,
+        "status": "partial",
+        "explanation": "Тестовые инструменты перечислены в рабочем стеке; конкретное написание тестов и измеримый результат тестирования не описаны.",
+        "quotes": [
+          "REST Assured"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Есть явная настройка CI/CD и контейнеризация; инструменты поставки/наблюдаемости перечислены, измеримые результаты не приведены.",
+        "quotes": [
+          "Git",
+          "Jenkins",
+          "Maven",
+          "ELK",
+          "настройка CI/CD и контейнеризация приложений"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 0,
+        "status": "missing",
+        "explanation": "Kafka Streams, Protobuf/gRPC и AI-агенты не подтверждены; это недостаток сведений, а не доказанное отсутствие навыка. Обычный Kafka и OpenAI API не засчитываются сами по себе.",
+        "quotes": []
+      }
+    ],
+    "score": 77.0,
+    "summary": "Подтверждён коммерческий опыт Java/Spring backend. Сильные стороны: Архитектура и интеграции. Требуют уточнения: Тестирование, Дополнительные технологии. Итог отражает только полноту дословных свидетельств в резюме; решения о найме нет."
+  },
+  {
+    "file": "CV_005_Волков_Екатерина.pdf",
+    "candidate_id": "CV_005_Волков_Екатерина",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Java 8+ указан в стеке рабочих проектов; есть свидетельства качества разработки (review или общие компоненты). Детали JVM, concurrency и коллекций не раскрыты.",
+        "quotes": [
+          "Java 11",
+          "разработка и сопровождение микросервисов на Java"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Spring указан в рабочих проектах вместе с конкретной backend-работой; устройство Spring-компонентов и их реализация не детализированы.",
+        "quotes": [
+          "Spring Web",
+          "Spring Boot",
+          "Spring Security",
+          "разработка и сопровождение микросервисов на Java",
+          "проектирование REST API и интеграционных контрактов",
+          "сократил среднее время ответа API на 35%"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 3,
+        "status": "partial",
+        "explanation": "СУБД указана в рабочем стеке; конкретные запросы, схемы, транзакции и результаты оптимизации не раскрыты.",
+        "quotes": [
+          "ClickHouse"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Описана практическая разработка микросервисов, API/контрактов или интеграция сервисов; сложные распределённые гарантии и архитектурные компромиссы не раскрыты.",
+        "quotes": [
+          "Apache Kafka",
+          "Kafka Streams",
+          "REST",
+          "JSON",
+          "разработка и сопровождение микросервисов на Java",
+          "проектирование REST API и интеграционных контрактов"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 3,
+        "status": "partial",
+        "explanation": "Тестовые инструменты перечислены в рабочем стеке; конкретное написание тестов и измеримый результат тестирования не описаны.",
+        "quotes": [
+          "WireMock",
+          "Testcontainers"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Есть явная настройка CI/CD и контейнеризация; инструменты поставки/наблюдаемости перечислены, измеримые результаты не приведены.",
+        "quotes": [
+          "Kubernetes",
+          "Gradle",
+          "Git",
+          "Prometheus",
+          "Jenkins",
+          "настройка CI/CD и контейнеризация приложений"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 3,
+        "status": "partial",
+        "explanation": "В стеке рабочих проектов указаны Kafka Streams; конкретный сценарий их реализации и результат не раскрыты. Бонус начислен один раз.",
+        "quotes": [
+          "Kafka Streams"
+        ]
+      }
+    ],
+    "score": 74.0,
+    "summary": "Подтверждён коммерческий опыт Java/Spring backend. Требуют уточнения: Базы данных, Тестирование, Дополнительные технологии. Итог отражает только полноту дословных свидетельств в резюме; решения о найме нет."
+  },
+  {
+    "file": "CV_006_Комаров_Ольга.pdf",
+    "candidate_id": "CV_006_Комаров_Ольга",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Java 8+ указан в стеке рабочих проектов; есть свидетельства качества разработки (review или общие компоненты). Детали JVM, concurrency и коллекций не раскрыты.",
+        "quotes": [
+          "Java 11",
+          "проведение code review и декомпозиция задач"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Spring указан в рабочих проектах вместе с конкретной backend-работой; устройство Spring-компонентов и их реализация не детализированы.",
+        "quotes": [
+          "Spring Core",
+          "Spring Security",
+          "Spring Data"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 3,
+        "status": "partial",
+        "explanation": "СУБД указана в рабочем стеке; конкретные запросы, схемы, транзакции и результаты оптимизации не раскрыты.",
+        "quotes": [
+          "Oracle",
+          "MongoDB",
+          "ClickHouse",
+          "оптимизация запросов и схем хранения данных"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 3,
+        "status": "partial",
+        "explanation": "Описана практическая разработка микросервисов, API/контрактов или интеграция сервисов; сложные распределённые гарантии и архитектурные компромиссы не раскрыты.",
+        "quotes": [
+          "REST",
+          "JSON"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Явно указано написание unit- и интеграционных тестов и перечислены тестовые инструменты.",
+        "quotes": [
+          "WireMock",
+          "написание unit- и интеграционных тестов"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Есть явная настройка CI/CD и контейнеризация; инструменты поставки/наблюдаемости перечислены, измеримые результаты не приведены.",
+        "quotes": [
+          "Git",
+          "GitLab CI",
+          "Grafana",
+          "Kubernetes",
+          "Maven",
+          "Docker",
+          "Prometheus"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 1,
+        "status": "partial",
+        "explanation": "Подтверждено только изучение Kafka Streams/Protobuf по документации и учебным примерам; прямой практический опыт явно отрицается.",
+        "quotes": [
+          "Прямого опыта с Kafka Streams и Protobuf нет; изучал документацию и учебные примеры."
+        ]
+      }
+    ],
+    "score": 71.0,
+    "summary": "Подтверждён коммерческий опыт Java/Spring backend. Требуют уточнения: Базы данных, Архитектура и интеграции, Дополнительные технологии. Итог отражает только полноту дословных свидетельств в резюме; решения о найме нет."
+  },
+  {
+    "file": "CV_007_Петров_Артём.pdf",
+    "candidate_id": "CV_007_Петров_Артём",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 3,
+        "status": "partial",
+        "explanation": "Java 8+ указан в рабочих проектах, но конкретные приёмы Java core, JVM, concurrency и коллекций не раскрыты.",
+        "quotes": [
+          "Java 8"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Spring указан в рабочих проектах вместе с конкретной backend-работой; устройство Spring-компонентов и их реализация не детализированы.",
+        "quotes": [
+          "Spring Data",
+          "Spring Boot",
+          "Spring Security",
+          "Spring Core"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 3,
+        "status": "partial",
+        "explanation": "СУБД указана в рабочем стеке; конкретные запросы, схемы, транзакции и результаты оптимизации не раскрыты.",
+        "quotes": [
+          "Redis",
+          "оптимизация запросов и схем хранения данных"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Описана практическая разработка микросервисов, API/контрактов или интеграция сервисов; сложные распределённые гарантии и архитектурные компромиссы не раскрыты.",
+        "quotes": [
+          "Apache Kafka",
+          "REST",
+          "JSON",
+          "Protobuf",
+          "участие в проектировании архитектуры сервисов",
+          "интеграция сервисов через брокеры сообщений"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 3,
+        "status": "partial",
+        "explanation": "Тестовые инструменты перечислены в рабочем стеке; конкретное написание тестов и измеримый результат тестирования не описаны.",
+        "quotes": [
+          "WireMock",
+          "REST Assured"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Практика поставки подтверждена измеримым ускорением сборки до 7 минут или автоматизацией выпуска релизов до 20 минут.",
+        "quotes": [
+          "Kubernetes",
+          "Docker",
+          "GitLab CI",
+          "Maven",
+          "Gradle",
+          "Prometheus",
+          "автоматизировал выпуск релизов и сократил его до 20 минут"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 3,
+        "status": "partial",
+        "explanation": "В стеке рабочих проектов указаны Protobuf; конкретный сценарий их реализации и результат не раскрыты. Бонус начислен один раз.",
+        "quotes": [
+          "Protobuf"
+        ]
+      }
+    ],
+    "score": 71.0,
+    "summary": "Подтверждён коммерческий опыт Java/Spring backend. Сильные стороны: Инструменты поставки. Требуют уточнения: Java core, Базы данных, Тестирование, Дополнительные технологии. Итог отражает только полноту дословных свидетельств в резюме; решения о найме нет."
+  },
+  {
+    "file": "CV_008_Щербаков_Егор.pdf",
+    "candidate_id": "CV_008_Щербаков_Егор",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Java 8+ указан в стеке рабочих проектов; есть свидетельства качества разработки (review или общие компоненты). Детали JVM, concurrency и коллекций не раскрыты.",
+        "quotes": [
+          "Java 17",
+          "провожу code review"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Spring указан в рабочих проектах вместе с конкретной backend-работой; устройство Spring-компонентов и их реализация не детализированы.",
+        "quotes": [
+          "Spring Security",
+          "Spring Web",
+          "Spring Core",
+          "Spring Data"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Практика работы с данными подтверждена оптимизацией запросов/схем либо измеримым снижением нагрузки; подробности решений и транзакций не раскрыты.",
+        "quotes": [
+          "Redis",
+          "ClickHouse",
+          "MongoDB"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Описана практическая разработка микросервисов, API/контрактов или интеграция сервисов; сложные распределённые гарантии и архитектурные компромиссы не раскрыты.",
+        "quotes": [
+          "RabbitMQ",
+          "REST",
+          "JSON"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Явно указано написание unit- и интеграционных тестов и перечислены тестовые инструменты.",
+        "quotes": [
+          "Testcontainers",
+          "написание unit- и интеграционных тестов"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Есть явная настройка CI/CD и контейнеризация; инструменты поставки/наблюдаемости перечислены, измеримые результаты не приведены.",
+        "quotes": [
+          "GitLab CI",
+          "Jenkins",
+          "ELK",
+          "Kubernetes",
+          "Git",
+          "Grafana",
+          "Prometheus",
+          "ускорил сборку проекта с 18 до 7 минут"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 0,
+        "status": "missing",
+        "explanation": "Kafka Streams, Protobuf/gRPC и AI-агенты не подтверждены; это недостаток сведений, а не доказанное отсутствие навыка. Обычный Kafka и OpenAI API не засчитываются сами по себе.",
+        "quotes": []
+      }
+    ],
+    "score": 76.0,
+    "summary": "Подтверждён коммерческий опыт Java/Spring backend. Требуют уточнения: Дополнительные технологии. Итог отражает только полноту дословных свидетельств в резюме; решения о найме нет."
+  },
+  {
+    "file": "CV_009_Данилов_Никита.pdf",
+    "candidate_id": "CV_009_Данилов_Никита",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Java 8+ указан в стеке рабочих проектов; есть свидетельства качества разработки (review или общие компоненты). Детали JVM, concurrency и коллекций не раскрыты.",
+        "quotes": [
+          "Java 21",
+          "разработка и сопровождение микросервисов на Java"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Spring указан в рабочих проектах вместе с конкретной backend-работой; устройство Spring-компонентов и их реализация не детализированы.",
+        "quotes": [
+          "Spring Boot",
+          "Spring Data",
+          "Spring Security",
+          "разработка и сопровождение микросервисов на Java",
+          "проектирование REST API и интеграционных контрактов"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 3,
+        "status": "partial",
+        "explanation": "СУБД указана в рабочем стеке; конкретные запросы, схемы, транзакции и результаты оптимизации не раскрыты.",
+        "quotes": [
+          "MySQL"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Описана практическая разработка микросервисов, API/контрактов или интеграция сервисов; сложные распределённые гарантии и архитектурные компромиссы не раскрыты.",
+        "quotes": [
+          "Apache Kafka",
+          "Kafka Streams",
+          "REST",
+          "JSON",
+          "разработка и сопровождение микросервисов на Java",
+          "проектирование REST API и интеграционных контрактов"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Тестовые инструменты и результат подтверждены ростом покрытия критичных модулей с 42% до 78%.",
+        "quotes": [
+          "REST Assured",
+          "WireMock",
+          "Testcontainers",
+          "Mockito"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Есть явная настройка CI/CD и контейнеризация; инструменты поставки/наблюдаемости перечислены, измеримые результаты не приведены.",
+        "quotes": [
+          "Git",
+          "Maven",
+          "GitLab CI",
+          "Docker"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 3,
+        "status": "partial",
+        "explanation": "В стеке рабочих проектов указаны Kafka Streams; конкретный сценарий их реализации и результат не раскрыты. Бонус начислен один раз.",
+        "quotes": [
+          "Kafka Streams"
+        ]
+      }
+    ],
+    "score": 78.0,
+    "summary": "Подтверждён коммерческий опыт Java/Spring backend. Сильные стороны: Тестирование. Требуют уточнения: Базы данных, Дополнительные технологии. Итог отражает только полноту дословных свидетельств в резюме; решения о найме нет."
+  },
+  {
+    "file": "CV_010_Макаров_Юрий.pdf",
+    "candidate_id": "CV_010_Макаров_Юрий",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Java 8+ указан в стеке рабочих проектов; есть свидетельства качества разработки (review или общие компоненты). Детали JVM, concurrency и коллекций не раскрыты.",
+        "quotes": [
+          "Java 8",
+          "разработка и сопровождение микросервисов на Java"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Spring указан в рабочих проектах вместе с конкретной backend-работой; устройство Spring-компонентов и их реализация не детализированы.",
+        "quotes": [
+          "Spring Security",
+          "Spring Core",
+          "Spring Boot",
+          "Spring Data",
+          "Spring Web",
+          "разработка и сопровождение микросервисов на Java"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 3,
+        "status": "partial",
+        "explanation": "СУБД указана в рабочем стеке; конкретные запросы, схемы, транзакции и результаты оптимизации не раскрыты.",
+        "quotes": [
+          "Oracle"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Описана практическая разработка микросервисов, API/контрактов или интеграция сервисов; сложные распределённые гарантии и архитектурные компромиссы не раскрыты.",
+        "quotes": [
+          "RabbitMQ",
+          "REST",
+          "JSON",
+          "gRPC",
+          "разработка и сопровождение микросервисов на Java",
+          "участие в проектировании архитектуры сервисов"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 3,
+        "status": "partial",
+        "explanation": "Тестовые инструменты перечислены в рабочем стеке; конкретное написание тестов и измеримый результат тестирования не описаны.",
+        "quotes": [
+          "Testcontainers"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Есть явная настройка CI/CD и контейнеризация; инструменты поставки/наблюдаемости перечислены, измеримые результаты не приведены.",
+        "quotes": [
+          "Prometheus",
+          "Git",
+          "Docker",
+          "Kubernetes",
+          "настройка CI/CD и контейнеризация приложений"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 3,
+        "status": "partial",
+        "explanation": "В стеке рабочих проектов указаны gRPC; конкретный сценарий их реализации и результат не раскрыты. Бонус начислен один раз. Отрицание коммерческой разработки AI-агентов не отменяет другие подтверждённые технологии. Kafka Streams/Protobuf упомянуты только как изучение; балл здесь основан на gRPC.",
+        "quotes": [
+          "gRPC",
+          "Прямого опыта с Kafka Streams и Protobuf нет; изучал документацию и учебные примеры.",
+          "AI-агентов в коммерческих проектах не разрабатывал."
+        ]
+      }
+    ],
+    "score": 74.0,
+    "summary": "Подтверждён коммерческий опыт Java/Spring backend. Требуют уточнения: Базы данных, Тестирование, Дополнительные технологии. Итог отражает только полноту дословных свидетельств в резюме; решения о найме нет."
+  },
+  {
+    "file": "CV_011_Тарасов_Ирина.pdf",
+    "candidate_id": "CV_011_Тарасов_Ирина",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 3,
+        "status": "partial",
+        "explanation": "Java 8+ указан в рабочих проектах, но конкретные приёмы Java core, JVM, concurrency и коллекций не раскрыты.",
+        "quotes": [
+          "Java 8",
+          "проведение code review и декомпозиция задач",
+          "подготовил библиотеку общих компонентов для 5 команд",
+          "провожу code review"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Spring указан в рабочих проектах вместе с конкретной backend-работой; устройство Spring-компонентов и их реализация не детализированы.",
+        "quotes": [
+          "Spring Security",
+          "Spring Core",
+          "Spring Boot",
+          "Spring Web"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 3,
+        "status": "partial",
+        "explanation": "СУБД указана в рабочем стеке; конкретные запросы, схемы, транзакции и результаты оптимизации не раскрыты.",
+        "quotes": [
+          "ClickHouse"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 3,
+        "status": "partial",
+        "explanation": "Описана практическая разработка микросервисов, API/контрактов или интеграция сервисов; сложные распределённые гарантии и архитектурные компромиссы не раскрыты.",
+        "quotes": [
+          "REST",
+          "JSON",
+          "интеграция сервисов через брокеры сообщений"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 3,
+        "status": "partial",
+        "explanation": "Тестовые инструменты перечислены в рабочем стеке; конкретное написание тестов и измеримый результат тестирования не описаны.",
+        "quotes": [
+          "Testcontainers",
+          "WireMock"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Есть явная настройка CI/CD и контейнеризация; инструменты поставки/наблюдаемости перечислены, измеримые результаты не приведены.",
+        "quotes": [
+          "Gradle",
+          "Jenkins",
+          "Prometheus",
+          "Grafana",
+          "настройка CI/CD и контейнеризация приложений"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 3,
+        "status": "partial",
+        "explanation": "В стеке рабочих проектов указаны LangChain4j, AI-агенты; конкретный сценарий их реализации и результат не раскрыты. Бонус начислен один раз.",
+        "quotes": [
+          "LangChain4j",
+          "AI-агенты"
+        ]
+      }
+    ],
+    "score": 66.0,
+    "summary": "Подтверждён коммерческий опыт Java/Spring backend. Требуют уточнения: Java core, Базы данных, Архитектура и интеграции, Тестирование, Дополнительные технологии. Итог отражает только полноту дословных свидетельств в резюме; решения о найме нет."
+  },
+  {
+    "file": "CV_012_Беляев_Светлана.pdf",
+    "candidate_id": "CV_012_Беляев_Светлана",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Java 8+ указан в стеке рабочих проектов; есть свидетельства качества разработки (review или общие компоненты). Детали JVM, concurrency и коллекций не раскрыты.",
+        "quotes": [
+          "Java 11",
+          "разработка и сопровождение микросервисов на Java"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Spring указан в рабочих проектах вместе с конкретной backend-работой; устройство Spring-компонентов и их реализация не детализированы.",
+        "quotes": [
+          "Spring Boot",
+          "Spring Core",
+          "Spring Data",
+          "разработка и сопровождение микросервисов на Java",
+          "проектирование REST API и интеграционных контрактов"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Практика работы с данными подтверждена оптимизацией запросов/схем либо измеримым снижением нагрузки; подробности решений и транзакций не раскрыты.",
+        "quotes": [
+          "Oracle",
+          "PostgreSQL"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Есть практическая архитектурная/интеграционная работа и измеримый результат: миграция монолита на 6 сервисов или обработка 4000 сообщений/с.",
+        "quotes": [
+          "RabbitMQ",
+          "REST",
+          "JSON",
+          "разработка и сопровождение микросервисов на Java",
+          "проектирование REST API и интеграционных контрактов",
+          "интеграция сервисов через брокеры сообщений",
+          "реализовал обработку до 4 000 сообщений в секунду"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 3,
+        "status": "partial",
+        "explanation": "Тестовые инструменты перечислены в рабочем стеке; конкретное написание тестов и измеримый результат тестирования не описаны.",
+        "quotes": [
+          "WireMock"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Практика поставки подтверждена измеримым ускорением сборки до 7 минут или автоматизацией выпуска релизов до 20 минут.",
+        "quotes": [
+          "GitLab CI",
+          "Maven",
+          "Grafana",
+          "Git",
+          "Prometheus",
+          "Jenkins",
+          "Gradle"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 0,
+        "status": "missing",
+        "explanation": "Kafka Streams, Protobuf/gRPC и AI-агенты не подтверждены; это недостаток сведений, а не доказанное отсутствие навыка. Обычный Kafka и OpenAI API не засчитываются сами по себе.",
+        "quotes": []
+      }
+    ],
+    "score": 79.0,
+    "summary": "Подтверждён коммерческий опыт Java/Spring backend. Сильные стороны: Архитектура и интеграции, Инструменты поставки. Требуют уточнения: Тестирование, Дополнительные технологии. Итог отражает только полноту дословных свидетельств в резюме; решения о найме нет."
+  },
+  {
+    "file": "CV_013_Иванов_Вадим.pdf",
+    "candidate_id": "CV_013_Иванов_Вадим",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Java 8+ указан в стеке рабочих проектов; есть свидетельства качества разработки (review или общие компоненты). Детали JVM, concurrency и коллекций не раскрыты.",
+        "quotes": [
+          "Java 17",
+          "подготовил библиотеку общих компонентов для 5 команд"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Spring указан в рабочих проектах вместе с конкретной backend-работой; устройство Spring-компонентов и их реализация не детализированы.",
+        "quotes": [
+          "Spring Boot",
+          "Spring Core",
+          "Spring Security",
+          "Spring Web",
+          "проектирование REST API и интеграционных контрактов"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Указаны оптимизация запросов и схем хранения, применявшиеся СУБД и измеримое снижение нагрузки на базу на 30%.",
+        "quotes": [
+          "PostgreSQL",
+          "Redis",
+          "MongoDB"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Описана практическая разработка микросервисов, API/контрактов или интеграция сервисов; сложные распределённые гарантии и архитектурные компромиссы не раскрыты.",
+        "quotes": [
+          "Apache Kafka",
+          "Kafka Streams",
+          "REST",
+          "JSON",
+          "Protobuf",
+          "проектирование REST API и интеграционных контрактов",
+          "интеграция сервисов через брокеры сообщений"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Тестовые инструменты и результат подтверждены ростом покрытия критичных модулей с 42% до 78%.",
+        "quotes": [
+          "REST Assured",
+          "JUnit 5",
+          "WireMock",
+          "Testcontainers"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Практика поставки подтверждена измеримым ускорением сборки до 7 минут или автоматизацией выпуска релизов до 20 минут.",
+        "quotes": [
+          "ELK",
+          "Grafana",
+          "Gradle",
+          "GitLab CI",
+          "Prometheus",
+          "Kubernetes"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 3,
+        "status": "partial",
+        "explanation": "В стеке рабочих проектов указаны Kafka Streams, Protobuf; конкретный сценарий их реализации и результат не раскрыты. Бонус начислен один раз.",
+        "quotes": [
+          "Kafka Streams",
+          "Protobuf"
+        ]
+      }
+    ],
+    "score": 86.0,
+    "summary": "Подтверждён коммерческий опыт Java/Spring backend. Сильные стороны: Базы данных, Тестирование, Инструменты поставки. Требуют уточнения: Дополнительные технологии. Итог отражает только полноту дословных свидетельств в резюме; решения о найме нет."
+  },
+  {
+    "file": "CV_014_Никитин_Илья.pdf",
+    "candidate_id": "CV_014_Никитин_Илья",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Java 8+ указан в стеке рабочих проектов; есть свидетельства качества разработки (review или общие компоненты). Детали JVM, concurrency и коллекций не раскрыты.",
+        "quotes": [
+          "Java 21",
+          "разработка и сопровождение микросервисов на Java",
+          "проведение code review и декомпозиция задач"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Spring указан в рабочих проектах вместе с конкретной backend-работой; устройство Spring-компонентов и их реализация не детализированы.",
+        "quotes": [
+          "Spring Web",
+          "Spring Boot",
+          "Spring Data",
+          "Spring Security",
+          "разработка и сопровождение микросервисов на Java"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 3,
+        "status": "partial",
+        "explanation": "СУБД указана в рабочем стеке; конкретные запросы, схемы, транзакции и результаты оптимизации не раскрыты.",
+        "quotes": [
+          "ClickHouse",
+          "MySQL",
+          "Oracle"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Описана практическая разработка микросервисов, API/контрактов или интеграция сервисов; сложные распределённые гарантии и архитектурные компромиссы не раскрыты.",
+        "quotes": [
+          "REST",
+          "JSON",
+          "разработка и сопровождение микросервисов на Java"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Явно указано написание unit- и интеграционных тестов и перечислены тестовые инструменты.",
+        "quotes": [
+          "Mockito",
+          "REST Assured"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Практика поставки подтверждена измеримым ускорением сборки до 7 минут или автоматизацией выпуска релизов до 20 минут.",
+        "quotes": [
+          "Gradle",
+          "Docker",
+          "Prometheus",
+          "Maven",
+          "Grafana",
+          "Git",
+          "GitLab CI",
+          "настройка CI/CD и контейнеризация приложений"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 1,
+        "status": "partial",
+        "explanation": "Подтверждено только изучение Kafka Streams/Protobuf по документации и учебным примерам; прямой практический опыт явно отрицается.",
+        "quotes": [
+          "Прямого опыта с Kafka Streams и Protobuf нет; изучал документацию и учебные примеры."
+        ]
+      }
+    ],
+    "score": 76.0,
+    "summary": "Подтверждён коммерческий опыт Java/Spring backend. Сильные стороны: Инструменты поставки. Требуют уточнения: Базы данных, Дополнительные технологии. Итог отражает только полноту дословных свидетельств в резюме; решения о найме нет."
+  },
+  {
+    "file": "CV_015_Чернов_Павел.pdf",
+    "candidate_id": "CV_015_Чернов_Павел",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Java 8+ указан в стеке рабочих проектов; есть свидетельства качества разработки (review или общие компоненты). Детали JVM, concurrency и коллекций не раскрыты.",
+        "quotes": [
+          "Java 11",
+          "разработка и сопровождение микросервисов на Java",
+          "проведение code review и декомпозиция задач"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Spring указан в рабочих проектах вместе с конкретной backend-работой; устройство Spring-компонентов и их реализация не детализированы.",
+        "quotes": [
+          "Spring Data",
+          "Spring Core",
+          "Spring Security",
+          "Spring Boot",
+          "Spring Web",
+          "разработка и сопровождение микросервисов на Java"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 3,
+        "status": "partial",
+        "explanation": "СУБД указана в рабочем стеке; конкретные запросы, схемы, транзакции и результаты оптимизации не раскрыты.",
+        "quotes": [
+          "Redis",
+          "Oracle"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Описана практическая разработка микросервисов, API/контрактов или интеграция сервисов; сложные распределённые гарантии и архитектурные компромиссы не раскрыты.",
+        "quotes": [
+          "RabbitMQ",
+          "REST",
+          "JSON",
+          "разработка и сопровождение микросервисов на Java"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Явно указано написание unit- и интеграционных тестов и перечислены тестовые инструменты.",
+        "quotes": [
+          "WireMock",
+          "JUnit 5",
+          "REST Assured"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Есть явная настройка CI/CD и контейнеризация; инструменты поставки/наблюдаемости перечислены, измеримые результаты не приведены.",
+        "quotes": [
+          "Prometheus",
+          "GitLab CI",
+          "Jenkins",
+          "Docker",
+          "Maven"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 0,
+        "status": "missing",
+        "explanation": "Kafka Streams, Protobuf/gRPC и AI-агенты не подтверждены; это недостаток сведений, а не доказанное отсутствие навыка. Обычный Kafka и OpenAI API не засчитываются сами по себе.",
+        "quotes": []
+      }
+    ],
+    "score": 73.0,
+    "summary": "Подтверждён коммерческий опыт Java/Spring backend. Требуют уточнения: Базы данных, Дополнительные технологии. Итог отражает только полноту дословных свидетельств в резюме; решения о найме нет."
+  },
+  {
+    "file": "CV_016_Воронов_Анастасия.pdf",
+    "candidate_id": "CV_016_Воронов_Анастасия",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Java 8+ указан в стеке рабочих проектов; есть свидетельства качества разработки (review или общие компоненты). Детали JVM, concurrency и коллекций не раскрыты.",
+        "quotes": [
+          "Java 17",
+          "провожу code review"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Spring указан в рабочих проектах вместе с конкретной backend-работой; устройство Spring-компонентов и их реализация не детализированы.",
+        "quotes": [
+          "Spring Boot",
+          "Spring Core",
+          "Spring Security",
+          "проектирование REST API и интеграционных контрактов",
+          "сократил среднее время ответа API на 35%",
+          "перевёл модульный монолит на набор из 6 микросервисов"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Указаны оптимизация запросов и схем хранения, применявшиеся СУБД и измеримое снижение нагрузки на базу на 30%.",
+        "quotes": [
+          "Redis",
+          "Oracle",
+          "MySQL",
+          "оптимизация запросов и схем хранения данных"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Описана практическая разработка микросервисов, API/контрактов или интеграция сервисов; сложные распределённые гарантии и архитектурные компромиссы не раскрыты.",
+        "quotes": [
+          "REST",
+          "JSON",
+          "проектирование REST API и интеграционных контрактов",
+          "интеграция сервисов через брокеры сообщений",
+          "перевёл модульный монолит на набор из 6 микросервисов"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Тестовые инструменты и результат подтверждены ростом покрытия критичных модулей с 42% до 78%.",
+        "quotes": [
+          "REST\nAssured",
+          "написание unit- и интеграционных тестов"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Есть явная настройка CI/CD и контейнеризация; инструменты поставки/наблюдаемости перечислены, измеримые результаты не приведены.",
+        "quotes": [
+          "Jenkins",
+          "Gradle",
+          "Docker",
+          "ELK",
+          "настройка CI/CD и контейнеризация приложений"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 0,
+        "status": "missing",
+        "explanation": "Kafka Streams, Protobuf/gRPC и AI-агенты не подтверждены; это недостаток сведений, а не доказанное отсутствие навыка. Обычный Kafka и OpenAI API не засчитываются сами по себе.",
+        "quotes": []
+      }
+    ],
+    "score": 81.0,
+    "summary": "Подтверждён коммерческий опыт Java/Spring backend. Сильные стороны: Базы данных, Тестирование. Требуют уточнения: Дополнительные технологии. Итог отражает только полноту дословных свидетельств в резюме; решения о найме нет."
+  },
+  {
+    "file": "CV_017_Крылов_Марина.pdf",
+    "candidate_id": "CV_017_Крылов_Марина",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Java 8+ указан в стеке рабочих проектов; есть свидетельства качества разработки (review или общие компоненты). Детали JVM, concurrency и коллекций не раскрыты.",
+        "quotes": [
+          "Java 17",
+          "разработка и сопровождение микросервисов на Java",
+          "провожу code review"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Spring указан в рабочих проектах вместе с конкретной backend-работой; устройство Spring-компонентов и их реализация не детализированы.",
+        "quotes": [
+          "Spring Boot",
+          "Spring Security",
+          "разработка и сопровождение микросервисов на Java"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Практика работы с данными подтверждена оптимизацией запросов/схем либо измеримым снижением нагрузки; подробности решений и транзакций не раскрыты.",
+        "quotes": [
+          "PostgreSQL",
+          "MongoDB",
+          "MySQL"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Описана практическая разработка микросервисов, API/контрактов или интеграция сервисов; сложные распределённые гарантии и архитектурные компромиссы не раскрыты.",
+        "quotes": [
+          "Apache Kafka",
+          "Kafka\nStreams",
+          "REST",
+          "JSON",
+          "разработка и сопровождение микросервисов на Java"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Явно указано написание unit- и интеграционных тестов и перечислены тестовые инструменты.",
+        "quotes": [
+          "WireMock",
+          "JUnit 5",
+          "REST Assured",
+          "написание unit- и интеграционных тестов"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Практика поставки подтверждена измеримым ускорением сборки до 7 минут или автоматизацией выпуска релизов до 20 минут.",
+        "quotes": [
+          "ELK",
+          "Maven",
+          "GitLab CI",
+          "Jenkins",
+          "Kubernetes",
+          "Gradle",
+          "Docker",
+          "настройка CI/CD и контейнеризация приложений"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 3,
+        "status": "partial",
+        "explanation": "В стеке рабочих проектов указаны Kafka Streams; конкретный сценарий их реализации и результат не раскрыты. Бонус начислен один раз. Отрицание коммерческой разработки AI-агентов не отменяет другие подтверждённые технологии.",
+        "quotes": [
+          "Kafka\nStreams",
+          "AI-агентов в коммерческих проектах не разрабатывал."
+        ]
+      }
+    ],
+    "score": 81.0,
+    "summary": "Подтверждён коммерческий опыт Java/Spring backend. Сильные стороны: Инструменты поставки. Требуют уточнения: Дополнительные технологии. Итог отражает только полноту дословных свидетельств в резюме; решения о найме нет."
+  },
+  {
+    "file": "CV_018_Романов_Татьяна.pdf",
+    "candidate_id": "CV_018_Романов_Татьяна",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 3,
+        "status": "partial",
+        "explanation": "Java 8+ указан в рабочих проектах, но конкретные приёмы Java core, JVM, concurrency и коллекций не раскрыты.",
+        "quotes": [
+          "Java 8",
+          "проведение code review и декомпозиция задач",
+          "подготовил библиотеку общих компонентов для 5 команд"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Spring указан в рабочих проектах вместе с конкретной backend-работой; устройство Spring-компонентов и их реализация не детализированы.",
+        "quotes": [
+          "Spring Data",
+          "Spring Boot"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 3,
+        "status": "partial",
+        "explanation": "СУБД указана в рабочем стеке; конкретные запросы, схемы, транзакции и результаты оптимизации не раскрыты.",
+        "quotes": [
+          "MongoDB",
+          "Oracle"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 3,
+        "status": "partial",
+        "explanation": "Описана практическая разработка микросервисов, API/контрактов или интеграция сервисов; сложные распределённые гарантии и архитектурные компромиссы не раскрыты.",
+        "quotes": [
+          "RabbitMQ",
+          "REST",
+          "JSON"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 3,
+        "status": "partial",
+        "explanation": "Тестовые инструменты перечислены в рабочем стеке; конкретное написание тестов и измеримый результат тестирования не описаны.",
+        "quotes": [
+          "Mockito"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Есть явная настройка CI/CD и контейнеризация; инструменты поставки/наблюдаемости перечислены, измеримые результаты не приведены.",
+        "quotes": [
+          "Jenkins",
+          "Kubernetes",
+          "Gradle",
+          "Git",
+          "Docker",
+          "ELK",
+          "Grafana"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 1,
+        "status": "partial",
+        "explanation": "Подтверждено только изучение Kafka Streams/Protobuf по документации и учебным примерам; прямой практический опыт явно отрицается.",
+        "quotes": [
+          "Прямого опыта с Kafka Streams и Protobuf нет; изучал документацию и учебные примеры."
+        ]
+      }
+    ],
+    "score": 64.0,
+    "summary": "Подтверждён коммерческий опыт Java/Spring backend. Требуют уточнения: Java core, Базы данных, Архитектура и интеграции, Тестирование, Дополнительные технологии. Итог отражает только полноту дословных свидетельств в резюме; решения о найме нет."
+  },
+  {
+    "file": "CV_019_Яковлев_Глеб.pdf",
+    "candidate_id": "CV_019_Яковлев_Глеб",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Java 8+ указан в стеке рабочих проектов; есть свидетельства качества разработки (review или общие компоненты). Детали JVM, concurrency и коллекций не раскрыты.",
+        "quotes": [
+          "Java 8",
+          "разработка и сопровождение микросервисов на Java",
+          "проведение code review и декомпозиция задач",
+          "провожу code review"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Spring указан в рабочих проектах вместе с конкретной backend-работой; устройство Spring-компонентов и их реализация не детализированы.",
+        "quotes": [
+          "Spring Security",
+          "Spring Boot",
+          "Spring Core",
+          "Spring Data",
+          "Spring Web",
+          "разработка и сопровождение микросервисов на Java"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 3,
+        "status": "partial",
+        "explanation": "СУБД указана в рабочем стеке; конкретные запросы, схемы, транзакции и результаты оптимизации не раскрыты.",
+        "quotes": [
+          "Oracle"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Описана практическая разработка микросервисов, API/контрактов или интеграция сервисов; сложные распределённые гарантии и архитектурные компромиссы не раскрыты.",
+        "quotes": [
+          "Apache Kafka",
+          "REST",
+          "JSON",
+          "Protobuf",
+          "gRPC",
+          "разработка и сопровождение микросервисов на Java"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 3,
+        "status": "partial",
+        "explanation": "Тестовые инструменты перечислены в рабочем стеке; конкретное написание тестов и измеримый результат тестирования не описаны.",
+        "quotes": [
+          "REST Assured"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Есть явная настройка CI/CD и контейнеризация; инструменты поставки/наблюдаемости перечислены, измеримые результаты не приведены.",
+        "quotes": [
+          "Grafana",
+          "ELK",
+          "GitLab CI",
+          "Git"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 3,
+        "status": "partial",
+        "explanation": "В стеке рабочих проектов указаны Protobuf, gRPC; конкретный сценарий их реализации и результат не раскрыты. Бонус начислен один раз.",
+        "quotes": [
+          "Protobuf",
+          "gRPC"
+        ]
+      }
+    ],
+    "score": 74.0,
+    "summary": "Подтверждён коммерческий опыт Java/Spring backend. Требуют уточнения: Базы данных, Тестирование, Дополнительные технологии. Итог отражает только полноту дословных свидетельств в резюме; решения о найме нет."
+  },
+  {
+    "file": "CV_020_Ершов_Лев.pdf",
+    "candidate_id": "CV_020_Ершов_Лев",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Java 8+ указан в стеке рабочих проектов; есть свидетельства качества разработки (review или общие компоненты). Детали JVM, concurrency и коллекций не раскрыты.",
+        "quotes": [
+          "Java 21",
+          "проведение code review и декомпозиция задач",
+          "провожу code review"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Spring указан в рабочих проектах вместе с конкретной backend-работой; устройство Spring-компонентов и их реализация не детализированы.",
+        "quotes": [
+          "Spring Security",
+          "Spring Web",
+          "Spring Boot"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 3,
+        "status": "partial",
+        "explanation": "СУБД указана в рабочем стеке; конкретные запросы, схемы, транзакции и результаты оптимизации не раскрыты.",
+        "quotes": [
+          "Redis",
+          "ClickHouse",
+          "оптимизация запросов и схем хранения данных"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 3,
+        "status": "partial",
+        "explanation": "Описана практическая разработка микросервисов, API/контрактов или интеграция сервисов; сложные распределённые гарантии и архитектурные компромиссы не раскрыты.",
+        "quotes": [
+          "RabbitMQ",
+          "REST",
+          "JSON"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Явно указано написание unit- и интеграционных тестов и перечислены тестовые инструменты.",
+        "quotes": [
+          "Mockito",
+          "REST Assured",
+          "WireMock",
+          "написание unit- и интеграционных тестов"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Практика поставки подтверждена измеримым ускорением сборки до 7 минут или автоматизацией выпуска релизов до 20 минут.",
+        "quotes": [
+          "Kubernetes",
+          "Docker",
+          "Jenkins",
+          "Git",
+          "GitLab CI",
+          "ELK",
+          "ускорил сборку проекта с 18 до 7 минут"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 0,
+        "status": "missing",
+        "explanation": "Kafka Streams, Protobuf/gRPC и AI-агенты не подтверждены; это недостаток сведений, а не доказанное отсутствие навыка. Обычный Kafka и OpenAI API не засчитываются сами по себе.",
+        "quotes": []
+      }
+    ],
+    "score": 72.0,
+    "summary": "Подтверждён коммерческий опыт Java/Spring backend. Сильные стороны: Инструменты поставки. Требуют уточнения: Базы данных, Архитектура и интеграции, Дополнительные технологии. Итог отражает только полноту дословных свидетельств в резюме; решения о найме нет."
+  },
+  {
+    "file": "CV_021_Мельников_Сергей.pdf",
+    "candidate_id": "CV_021_Мельников_Сергей",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Java 8+ указан в стеке рабочих проектов; есть свидетельства качества разработки (review или общие компоненты). Детали JVM, concurrency и коллекций не раскрыты.",
+        "quotes": [
+          "Java 21",
+          "разработка и сопровождение микросервисов на Java",
+          "проведение code review и декомпозиция задач",
+          "провожу code review"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Spring Core/Boot указан в проектном стеке, но конкретная разработка REST API или микросервисов в обязанностях не раскрыта.",
+        "quotes": [
+          "Spring Web",
+          "Spring Core",
+          "Spring Data",
+          "Spring Security",
+          "Spring Boot",
+          "разработка и сопровождение микросервисов на Java",
+          "проектирование REST API и интеграционных контрактов"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Практика работы с данными подтверждена оптимизацией запросов/схем либо измеримым снижением нагрузки; подробности решений и транзакций не раскрыты.",
+        "quotes": [
+          "ClickHouse",
+          "MySQL",
+          "оптимизация запросов и схем хранения данных",
+          "снизил нагрузку на базу данных на 30%"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Есть практическая архитектурная/интеграционная работа и измеримый результат: миграция монолита на 6 сервисов или обработка 4000 сообщений/с.",
+        "quotes": [
+          "Kafka Streams",
+          "REST",
+          "JSON",
+          "разработка и сопровождение микросервисов на Java",
+          "проектирование REST API и интеграционных контрактов",
+          "участие в проектировании архитектуры сервисов",
+          "реализовал обработку до 4 000 сообщений в секунду"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Тестовые инструменты и результат подтверждены ростом покрытия критичных модулей с 42% до 78%.",
+        "quotes": [
+          "Testcontainers",
+          "повысил покрытие критичных модулей тестами с 42% до 78%"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Практика поставки подтверждена измеримым ускорением сборки до 7 минут или автоматизацией выпуска релизов до 20 минут.",
+        "quotes": [
+          "Prometheus",
+          "Jenkins",
+          "Maven",
+          "Git",
+          "GitLab CI"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 3,
+        "status": "partial",
+        "explanation": "В стеке рабочих проектов указаны Kafka Streams, LangChain4j, AI-агенты; конкретный сценарий их реализации и результат не раскрыты. Бонус начислен один раз.",
+        "quotes": [
+          "Kafka Streams",
+          "LangChain4j",
+          "AI-агенты"
+        ]
+      }
+    ],
+    "score": 90.0,
+    "summary": "Подтверждён коммерческий опыт Java/Spring backend. Сильные стороны: Spring и backend, Архитектура и интеграции, Тестирование, Инструменты поставки. Требуют уточнения: Дополнительные технологии. Итог отражает только полноту дословных свидетельств в резюме; решения о найме нет."
+  },
+  {
+    "file": "CV_022_Титов_Дарья.pdf",
+    "candidate_id": "CV_022_Титов_Дарья",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Java 8+ указан в стеке рабочих проектов; есть свидетельства качества разработки (review или общие компоненты). Детали JVM, concurrency и коллекций не раскрыты.",
+        "quotes": [
+          "Java 21",
+          "разработка и сопровождение микросервисов на Java",
+          "провожу code review"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Spring указан в рабочих проектах вместе с конкретной backend-работой; устройство Spring-компонентов и их реализация не детализированы.",
+        "quotes": [
+          "Spring Core",
+          "Spring Boot",
+          "Spring Web",
+          "разработка и сопровождение микросервисов на Java",
+          "проектирование REST API и интеграционных контрактов",
+          "сократил среднее время ответа API на 35%"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Практика работы с данными подтверждена оптимизацией запросов/схем либо измеримым снижением нагрузки; подробности решений и транзакций не раскрыты.",
+        "quotes": [
+          "Redis",
+          "MySQL"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Описана практическая разработка микросервисов, API/контрактов или интеграция сервисов; сложные распределённые гарантии и архитектурные компромиссы не раскрыты.",
+        "quotes": [
+          "RabbitMQ",
+          "REST",
+          "JSON",
+          "разработка и сопровождение микросервисов на Java",
+          "проектирование REST API и интеграционных контрактов",
+          "участие в проектировании архитектуры сервисов",
+          "интеграция сервисов через брокеры сообщений"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Явно указано написание unit- и интеграционных тестов и перечислены тестовые инструменты.",
+        "quotes": [
+          "WireMock",
+          "повысил покрытие критичных модулей тестами с 42% до 78%"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Практика поставки подтверждена измеримым ускорением сборки до 7 минут или автоматизацией выпуска релизов до 20 минут.",
+        "quotes": [
+          "Kubernetes",
+          "GitLab CI",
+          "Jenkins",
+          "Maven",
+          "Docker",
+          "ELK",
+          "Prometheus",
+          "ускорил сборку проекта с 18 до 7 минут",
+          "автоматизировал выпуск релизов и сократил его до 20 минут"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 1,
+        "status": "partial",
+        "explanation": "Подтверждено только изучение Kafka Streams/Protobuf по документации и учебным примерам; прямой практический опыт явно отрицается.",
+        "quotes": [
+          "Прямого опыта с Kafka Streams и Protobuf нет; изучал документацию и учебные примеры."
+        ]
+      }
+    ],
+    "score": 79.0,
+    "summary": "Подтверждён коммерческий опыт Java/Spring backend. Сильные стороны: Инструменты поставки. Требуют уточнения: Дополнительные технологии. Итог отражает только полноту дословных свидетельств в резюме; решения о найме нет."
+  },
+  {
+    "file": "CV_023_Быков_Наталья.pdf",
+    "candidate_id": "CV_023_Быков_Наталья",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Java 8+ указан в стеке рабочих проектов; есть свидетельства качества разработки (review или общие компоненты). Детали JVM, concurrency и коллекций не раскрыты.",
+        "quotes": [
+          "Java 17"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Spring указан в рабочих проектах вместе с конкретной backend-работой; устройство Spring-компонентов и их реализация не детализированы.",
+        "quotes": [
+          "Spring Web",
+          "Spring Data",
+          "Spring Boot",
+          "Spring Core"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Указаны оптимизация запросов и схем хранения, применявшиеся СУБД и измеримое снижение нагрузки на базу на 30%.",
+        "quotes": [
+          "PostgreSQL",
+          "MongoDB",
+          "Redis"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Описана практическая разработка микросервисов, API/контрактов или интеграция сервисов; сложные распределённые гарантии и архитектурные компромиссы не раскрыты.",
+        "quotes": [
+          "RabbitMQ",
+          "REST",
+          "JSON",
+          "интеграция сервисов через брокеры сообщений"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Явно указано написание unit- и интеграционных тестов и перечислены тестовые инструменты.",
+        "quotes": [
+          "Mockito",
+          "WireMock",
+          "JUnit 5",
+          "повысил покрытие критичных модулей тестами с 42% до 78%"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Есть явная настройка CI/CD и контейнеризация; инструменты поставки/наблюдаемости перечислены, измеримые результаты не приведены.",
+        "quotes": [
+          "Jenkins",
+          "Gradle",
+          "Kubernetes",
+          "Git",
+          "Grafana",
+          "настройка CI/CD и контейнеризация приложений",
+          "автоматизировал выпуск релизов и сократил его до 20 минут"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 0,
+        "status": "missing",
+        "explanation": "Kafka Streams, Protobuf/gRPC и AI-агенты не подтверждены; это недостаток сведений, а не доказанное отсутствие навыка. Обычный Kafka и OpenAI API не засчитываются сами по себе.",
+        "quotes": []
+      }
+    ],
+    "score": 79.0,
+    "summary": "Подтверждён коммерческий опыт Java/Spring backend. Сильные стороны: Базы данных. Требуют уточнения: Дополнительные технологии. Итог отражает только полноту дословных свидетельств в резюме; решения о найме нет."
+  },
+  {
+    "file": "CV_024_Ковалёв_Антон.pdf",
+    "candidate_id": "CV_024_Ковалёв_Антон",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 3,
+        "status": "partial",
+        "explanation": "Java 8+ указан в рабочих проектах, но конкретные приёмы Java core, JVM, concurrency и коллекций не раскрыты.",
+        "quotes": [
+          "Java 8",
+          "проведение code review и декомпозиция задач"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Spring указан в рабочих проектах вместе с конкретной backend-работой; устройство Spring-компонентов и их реализация не детализированы.",
+        "quotes": [
+          "Spring Data",
+          "Spring Web",
+          "Spring Security",
+          "перевёл модульный монолит на набор из 6 микросервисов"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Практика работы с данными подтверждена оптимизацией запросов/схем либо измеримым снижением нагрузки; подробности решений и транзакций не раскрыты.",
+        "quotes": [
+          "MySQL",
+          "MongoDB",
+          "Redis",
+          "оптимизация запросов и схем хранения данных"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Описана практическая разработка микросервисов, API/контрактов или интеграция сервисов; сложные распределённые гарантии и архитектурные компромиссы не раскрыты.",
+        "quotes": [
+          "RabbitMQ",
+          "REST",
+          "JSON",
+          "участие в проектировании архитектуры сервисов",
+          "интеграция сервисов через брокеры сообщений",
+          "перевёл модульный монолит на набор из 6 микросервисов"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Тестовые инструменты и результат подтверждены ростом покрытия критичных модулей с 42% до 78%.",
+        "quotes": [
+          "JUnit 5",
+          "Mockito",
+          "Testcontainers",
+          "WireMock",
+          "написание unit- и интеграционных тестов"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Есть явная настройка CI/CD и контейнеризация; инструменты поставки/наблюдаемости перечислены, измеримые результаты не приведены.",
+        "quotes": [
+          "ELK",
+          "Grafana",
+          "Docker",
+          "GitLab CI",
+          "Prometheus"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 0,
+        "status": "contradiction",
+        "explanation": "Коммерческая разработка AI-агентов явно отрицается; других целевых бонусных технологий не подтверждено. OpenAI API сам по себе не доказывает работу с агентами.",
+        "quotes": [
+          "AI-агентов в коммерческих проектах не разрабатывал."
+        ]
+      }
+    ],
+    "score": 73.0,
+    "summary": "Подтверждён коммерческий опыт Java/Spring backend. Сильные стороны: Тестирование. Требуют уточнения: Java core, Дополнительные технологии. Итог отражает только полноту дословных свидетельств в резюме; решения о найме нет."
+  },
+  {
+    "file": "CV_025_Орлов_Денис.pdf",
+    "candidate_id": "CV_025_Орлов_Денис",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Java 8+ указан в стеке рабочих проектов; есть свидетельства качества разработки (review или общие компоненты). Детали JVM, concurrency и коллекций не раскрыты.",
+        "quotes": [
+          "Java 17",
+          "подготовил библиотеку общих компонентов для 5 команд"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Spring указан в рабочих проектах вместе с конкретной backend-работой; устройство Spring-компонентов и их реализация не детализированы.",
+        "quotes": [
+          "Spring Security",
+          "Spring Boot"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Практика работы с данными подтверждена оптимизацией запросов/схем либо измеримым снижением нагрузки; подробности решений и транзакций не раскрыты.",
+        "quotes": [
+          "PostgreSQL",
+          "MongoDB"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Описана практическая разработка микросервисов, API/контрактов или интеграция сервисов; сложные распределённые гарантии и архитектурные компромиссы не раскрыты.",
+        "quotes": [
+          "RabbitMQ",
+          "Kafka Streams",
+          "REST",
+          "JSON",
+          "Protobuf",
+          "участие в проектировании архитектуры сервисов",
+          "реализовал обработку до 4 000 сообщений в секунду"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Тестовые инструменты и результат подтверждены ростом покрытия критичных модулей с 42% до 78%.",
+        "quotes": [
+          "WireMock",
+          "Testcontainers",
+          "JUnit 5",
+          "REST Assured"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Практика поставки подтверждена измеримым ускорением сборки до 7 минут или автоматизацией выпуска релизов до 20 минут.",
+        "quotes": [
+          "Gradle",
+          "GitLab CI",
+          "Grafana",
+          "Prometheus",
+          "Maven"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 3,
+        "status": "partial",
+        "explanation": "В стеке рабочих проектов указаны Kafka Streams, Protobuf; конкретный сценарий их реализации и результат не раскрыты. Бонус начислен один раз.",
+        "quotes": [
+          "Kafka Streams",
+          "Protobuf"
+        ]
+      }
+    ],
+    "score": 83.0,
+    "summary": "Подтверждён коммерческий опыт Java/Spring backend. Сильные стороны: Тестирование, Инструменты поставки. Требуют уточнения: Дополнительные технологии. Итог отражает только полноту дословных свидетельств в резюме; решения о найме нет."
+  }
+]

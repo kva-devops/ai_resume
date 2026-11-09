@@ -1,0 +1,2119 @@
+[
+  {
+    "file": "CV_002_Зайцев_Даниил.pdf",
+    "candidate_id": "CV_002_Зайцев_Даниил",
+    "status": "done",
+    "mode": "model",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается разработка микросервисов на Java и использование Java 8.",
+        "quotes": [
+          "разработка и сопровождение микросервисов на Java",
+          "Java 8"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Указан опыт работы с несколькими компонентами Spring и разработка REST API.",
+        "quotes": [
+          "Spring Security, Spring Boot, Spring Core, Spring Data",
+          "проектирование REST API и интеграционных контрактов"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается опыт работы с PostgreSQL и ClickHouse, что подтверждает навыки работы с базами данных.",
+        "quotes": [
+          "PostgreSQL, ClickHouse"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается проектирование архитектуры сервисов и использование микросервисов.",
+        "quotes": [
+          "участие в проектировании архитектуры сервисов",
+          "разработка и сопровождение микросервисов"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается использование Mockito и Testcontainers для тестирования.",
+        "quotes": [
+          "Mockito, Testcontainers"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается использование Git, Maven и Kubernetes в процессе разработки.",
+        "quotes": [
+          "Maven, Kubernetes, Git"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 1,
+        "status": "partial",
+        "explanation": "Упоминается изучение документации по Kafka Streams и Protobuf, но нет практического опыта.",
+        "quotes": [
+          "Прямого опыта с Kafka Streams и Protobuf нет"
+        ]
+      }
+    ],
+    "summary": "Кандидат имеет подтвержденный опыт работы с Java, Spring и базами данных, а также навыки тестирования и использования инструментов поставки. Однако, опыт с дополнительными технологиями ограничен.",
+    "score": 81,
+    "strengths": [
+      "Java core",
+      "Spring и backend",
+      "Базы данных",
+      "Архитектура и интеграции",
+      "Тестирование",
+      "Инструменты поставки"
+    ],
+    "gaps": []
+  },
+  {
+    "file": "CV_004_Фомин_Тимофей.pdf",
+    "candidate_id": "CV_004_Фомин_Тимофей",
+    "status": "done",
+    "mode": "model",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 3,
+        "status": "partial",
+        "explanation": "Упоминается использование Java 17, но нет конкретных сведений о версиях, коллекциях, concurrency или JVM.",
+        "quotes": [
+          "Java 17"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается использование Spring Security и Spring Web, а также разработка REST API.",
+        "quotes": [
+          "Spring Security, Spring Web",
+          "REST"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 3,
+        "status": "partial",
+        "explanation": "Упоминается использование PostgreSQL, но нет сведений о проектировании схем, запросах или оптимизации.",
+        "quotes": [
+          "PostgreSQL"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается участие в проектировании архитектуры сервисов и использование RabbitMQ.",
+        "quotes": [
+          "участие в проектировании архитектуры сервисов",
+          "RabbitMQ"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 2,
+        "status": "partial",
+        "explanation": "Упоминается внимание к качеству API и тестируемости кода, но нет конкретных инструментов тестирования.",
+        "quotes": [
+          "Специализируюсь на Java и Spring. В работе уделяю внимание качеству API, производительности баз данных и",
+          "тестируемости кода"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается настройка CI/CD и использование Git, Jenkins и Maven.",
+        "quotes": [
+          "настройка CI/CD",
+          "Git, Jenkins, Maven"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 0,
+        "status": "missing",
+        "explanation": "Нет сведений о Kafka Streams, Protobuf/gRPC или AI-агентах.",
+        "quotes": []
+      }
+    ],
+    "summary": "Кандидат имеет опыт работы с Java и Spring, а также с базами данных и инструментами поставки, но не хватает конкретных сведений о некоторых ключевых навыках.",
+    "score": 64,
+    "strengths": [
+      "Spring и backend",
+      "Архитектура и интеграции",
+      "Инструменты поставки"
+    ],
+    "gaps": [
+      "Дополнительные технологии"
+    ]
+  },
+  {
+    "file": "CV_008_Щербаков_Егор.pdf",
+    "candidate_id": "CV_008_Щербаков_Егор",
+    "status": "done",
+    "mode": "model",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 3,
+        "status": "partial",
+        "explanation": "Упоминается использование Java 17, но нет конкретных сведений о версиях, коллекциях, concurrency или JVM.",
+        "quotes": [
+          "Java 17"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается использование Spring Security, Spring Web, Spring Core и Spring Data, что подтверждает опыт разработки backend-сервисов.",
+        "quotes": [
+          "Spring Security, Spring Web, Spring Core, Spring Data"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается опыт работы с Redis, ClickHouse и MongoDB, что подтверждает навыки работы с базами данных.",
+        "quotes": [
+          "Redis, ClickHouse, MongoDB"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 3,
+        "status": "partial",
+        "explanation": "Упоминается использование RabbitMQ и REST, но нет конкретных сведений о микросервисах или распределённых системах.",
+        "quotes": [
+          "RabbitMQ, REST"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается написание unit- и интеграционных тестов, что подтверждает опыт в тестировании.",
+        "quotes": [
+          "написание unit- и интеграционных тестов"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается использование Git, GitLab CI, Jenkins и Kubernetes, что подтверждает опыт с инструментами поставки.",
+        "quotes": [
+          "RabbitMQ, REST, JSON, Testcontainers, GitLab CI, Jenkins, ELK, Kubernetes, Git, Grafana, Prometheus"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 0,
+        "status": "missing",
+        "explanation": "Нет сведений о Kafka Streams, Protobuf/gRPC или AI-агентах.",
+        "quotes": []
+      }
+    ],
+    "summary": "Кандидат имеет опыт работы с Java и Spring, а также с базами данных и инструментами поставки, но не хватает информации о более сложных архитектурных решениях и бонусных технологиях.",
+    "score": 68,
+    "strengths": [
+      "Spring и backend",
+      "Базы данных",
+      "Тестирование",
+      "Инструменты поставки"
+    ],
+    "gaps": [
+      "Дополнительные технологии"
+    ]
+  },
+  {
+    "file": "CV_012_Беляев_Светлана.pdf",
+    "candidate_id": "CV_012_Беляев_Светлана",
+    "status": "done",
+    "mode": "model",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается разработка микросервисов на Java и использование Java 11.",
+        "quotes": [
+          "разработка и сопровождение микросервисов на Java",
+          "Технологический стек: Java 11"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается использование Spring Boot и проектирование REST API.",
+        "quotes": [
+          "Spring Boot, Spring Core, Spring Data",
+          "проектирование REST API и интеграционных контрактов"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 3,
+        "status": "partial",
+        "explanation": "Упоминается работа с базами данных Oracle и PostgreSQL, но нет информации о проектировании схем или оптимизации.",
+        "quotes": [
+          "Oracle, PostgreSQL"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается интеграция сервисов через брокеры сообщений и проектирование интеграционных контрактов.",
+        "quotes": [
+          "интеграция сервисов через брокеры сообщений",
+          "проектирование REST API и интеграционных контрактов"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 1,
+        "status": "partial",
+        "explanation": "Упоминается внимание к качеству API и тестируемости кода, но нет конкретных инструментов тестирования.",
+        "quotes": [
+          "уделяю внимание качеству API, производительности баз данных и\nтестируемости кода"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается использование Git, Maven, GitLab CI и Jenkins.",
+        "quotes": [
+          "GitLab CI, Maven, Grafana, Git, Prometheus, Jenkins, Gradle"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 0,
+        "status": "missing",
+        "explanation": "Нет упоминания о Kafka Streams, Protobuf/gRPC или AI-агентах.",
+        "quotes": []
+      }
+    ],
+    "summary": "Кандидат имеет подтвержденный опыт работы с Java и Spring, а также с инструментами поставки. Однако отсутствуют конкретные сведения о тестировании и дополнительных технологиях.",
+    "score": 67,
+    "strengths": [
+      "Java core",
+      "Spring и backend",
+      "Архитектура и интеграции",
+      "Инструменты поставки"
+    ],
+    "gaps": [
+      "Дополнительные технологии"
+    ]
+  },
+  {
+    "file": "CV_015_Чернов_Павел.pdf",
+    "candidate_id": "CV_015_Чернов_Павел",
+    "status": "done",
+    "mode": "model",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается разработка микросервисов на Java, что подтверждает опыт работы с Java 8+.",
+        "quotes": [
+          "разработка и сопровождение микросервисов на Java"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Указан опыт работы с несколькими компонентами Spring и разработкой backend-сервисов.",
+        "quotes": [
+          "Spring Data, Spring Core, Spring Security, Spring Boot, Spring Web"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 3,
+        "status": "partial",
+        "explanation": "Упоминается работа с Oracle, но нет информации о проектировании схем или оптимизации.",
+        "quotes": [
+          "Oracle"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается использование RabbitMQ и разработка микросервисов, что подтверждает опыт в архитектуре.",
+        "quotes": [
+          "RabbitMQ, REST, JSON"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается использование JUnit 5 и REST Assured для тестирования.",
+        "quotes": [
+          "JUnit 5, REST Assured"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Указаны инструменты GitLab CI, Jenkins, Docker и Maven, что подтверждает опыт в CI/CD.",
+        "quotes": [
+          "GitLab CI, Jenkins, Docker, Maven"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 0,
+        "status": "missing",
+        "explanation": "Нет упоминаний о Kafka Streams, Protobuf/gRPC или AI-агентах.",
+        "quotes": []
+      }
+    ],
+    "summary": "Кандидат имеет подтвержденный опыт работы с Java и Spring, а также навыки в тестировании и инструментах поставки. Однако отсутствует информация о работе с базами данных и дополнительными технологиями.",
+    "score": 77,
+    "strengths": [
+      "Java core",
+      "Spring и backend",
+      "Архитектура и интеграции",
+      "Тестирование",
+      "Инструменты поставки"
+    ],
+    "gaps": [
+      "Дополнительные технологии"
+    ]
+  },
+  {
+    "file": "CV_019_Яковлев_Глеб.pdf",
+    "candidate_id": "CV_019_Яковлев_Глеб",
+    "status": "done",
+    "mode": "model",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается разработка микросервисов на Java, что подтверждает опыт с Java 8 и основными аспектами Java core.",
+        "quotes": [
+          "разработка и сопровождение микросервисов на Java"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Указан опыт работы с несколькими компонентами Spring, а также разработка микросервисов, что подтверждает глубокое знание Spring и backend.",
+        "quotes": [
+          "разработка и сопровождение микросервисов на Java",
+          "Spring Security, Spring Boot, Spring Core, Spring Data, Spring Web"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 3,
+        "status": "partial",
+        "explanation": "Упоминается работа с Oracle, но нет конкретных сведений о проектировании схем или оптимизации хранения данных.",
+        "quotes": [
+          "Oracle"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается разработка микросервисов и использование REST, что подтверждает опыт в архитектуре и интеграциях.",
+        "quotes": [
+          "разработка и сопровождение микросервисов на Java",
+          "REST, JSON"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 2,
+        "status": "partial",
+        "explanation": "Упоминается проведение code review, но нет конкретных сведений о тестировании с использованием JUnit или других инструментов.",
+        "quotes": [
+          "проведение code review"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается использование GitLab CI и Git, что подтверждает опыт с инструментами поставки.",
+        "quotes": [
+          "GitLab CI, Git"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 3,
+        "status": "partial",
+        "explanation": "Упоминается использование Protobuf и gRPC, но нет конкретных сведений о проекте или контексте применения.",
+        "quotes": [
+          "Protobuf, gRPC"
+        ]
+      }
+    ],
+    "summary": "Кандидат имеет подтвержденный опыт работы с Java и Spring, а также знания в области архитектуры микросервисов и инструментов поставки. Однако, требуется больше информации о тестировании и работе с базами данных.",
+    "score": 76,
+    "strengths": [
+      "Java core",
+      "Spring и backend",
+      "Архитектура и интеграции",
+      "Инструменты поставки"
+    ],
+    "gaps": []
+  },
+  {
+    "file": "CV_026_Шаров_Михаил.pdf",
+    "candidate_id": "CV_026_Шаров_Михаил",
+    "status": "done",
+    "mode": "model",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 3,
+        "status": "partial",
+        "explanation": "Упоминается использование Java 21, но нет конкретных сведений о версиях, коллекциях, concurrency или JVM.",
+        "quotes": [
+          "Java 21"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Есть опыт работы с Spring Boot и Spring Data, а также разработка REST API.",
+        "quotes": [
+          "Spring Boot, Spring Data"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается опыт с MongoDB и Oracle, а также оптимизация схем хранения данных.",
+        "quotes": [
+          "оптимизация запросов и схем хранения данных",
+          "MongoDB, Oracle"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 1,
+        "status": "partial",
+        "explanation": "Упоминается участие в обсуждении архитектуры, но нет конкретных примеров микросервисов или интеграций.",
+        "quotes": [
+          "Участвую в обсуждении архитектуры"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Есть опыт написания unit- и интеграционных тестов с использованием JUnit и Mockito.",
+        "quotes": [
+          "написание unit- и интеграционных тестов",
+          "Технологический стек: Java 21, Spring Boot, Spring Data, MongoDB, Oracle, REST, JSON, REST Assured, Mockito, JUnit 5,"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается использование Maven, Docker и Kubernetes в проектах.",
+        "quotes": [
+          "Maven, Docker, Grafana, ELK, Kubernetes, Gradle"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 0,
+        "status": "missing",
+        "explanation": "Прямого опыта с Kafka Streams и Protobuf нет.",
+        "quotes": []
+      }
+    ],
+    "summary": "Кандидат имеет опыт работы с Java и Spring, а также в тестировании и инструментах поставки, но не имеет опыта с Kafka Streams и Protobuf.",
+    "score": 62,
+    "strengths": [
+      "Spring и backend",
+      "Базы данных",
+      "Тестирование",
+      "Инструменты поставки"
+    ],
+    "gaps": [
+      "Дополнительные технологии"
+    ]
+  },
+  {
+    "file": "CV_029_Семёнов_Полина.pdf",
+    "candidate_id": "CV_029_Семёнов_Полина",
+    "status": "done",
+    "mode": "model",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается разработка микросервисов на Java и оптимизация запросов, что подтверждает опыт работы с Java 8+.",
+        "quotes": [
+          "разработка и сопровождение микросервисов на Java",
+          "оптимизация запросов и схем хранения данных"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается использование Spring Boot и Spring Data для разработки микросервисов.",
+        "quotes": [
+          "разработка и сопровождение микросервисов на Java",
+          "Spring Data, Spring Boot"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Опыт работы с MySQL и ClickHouse, а также упоминание оптимизации схем хранения данных.",
+        "quotes": [
+          "оптимизация запросов и схем хранения данных",
+          "MySQL, ClickHouse"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается разработка микросервисов и интеграция через брокеры сообщений, такие как RabbitMQ и Kafka Streams.",
+        "quotes": [
+          "интеграция сервисов через брокеры сообщений",
+          "RabbitMQ, Kafka Streams"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 3,
+        "status": "confirmed",
+        "explanation": "Упоминается написание unit- и интеграционных тестов, что подтверждает опыт тестирования.",
+        "quotes": [
+          "написание unit- и интеграционных тестов"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается использование Git, Docker и GitLab CI в процессе разработки.",
+        "quotes": [
+          "Mockito, ELK, GitLab CI, Docker, Grafana, Git, Gradle"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 3,
+        "status": "partial",
+        "explanation": "Упоминается Kafka Streams, но нет конкретного описания применения.",
+        "quotes": [
+          "Kafka Streams"
+        ]
+      }
+    ],
+    "summary": "Кандидат имеет подтвержденный опыт работы с Java, Spring, базами данных и инструментами поставки, а также опыт тестирования. Упоминается использование Kafka Streams, но без конкретного контекста применения.",
+    "score": 77,
+    "strengths": [
+      "Java core",
+      "Spring и backend",
+      "Базы данных",
+      "Архитектура и интеграции",
+      "Инструменты поставки"
+    ],
+    "gaps": []
+  },
+  {
+    "file": "CV_033_Фёдоров_Алина.pdf",
+    "candidate_id": "CV_033_Фёдоров_Алина",
+    "status": "done",
+    "mode": "model",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Подтверждённый коммерческий опыт Java 8+, включая использование коллекций и concurrency.",
+        "quotes": [
+          "разработка и сопровождение микросервисов на Java",
+          "Технологический стек: Java 8"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Практический опыт работы с Spring Boot и разработка backend-сервисов.",
+        "quotes": [
+          "Технологический стек: Java 8, Spring Web, Spring Boot, Spring Core, Spring Security, Spring Data, Oracle, MongoDB,"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Опыт работы с SQL и NoSQL базами данных, проектирование схем и оптимизация.",
+        "quotes": [
+          "Технологический стек: Java 8, Spring Web, Spring Boot, Spring Core, Spring Security, Spring Data, Oracle, MongoDB,\nPostgreSQL, Apache Kafka, Kafka Streams, REST, JSON, JUnit 5, Gradle, Prometheus, Maven, ELK, Grafana"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Опыт проектирования архитектуры микросервисов и интеграции через брокеры сообщений.",
+        "quotes": [
+          "участие в проектировании архитектуры сервисов",
+          "интеграция сервисов через брокеры сообщений"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Опыт написания тестов с использованием JUnit.",
+        "quotes": [
+          "повысил покрытие критичных модулей тестами с 42% до 78%",
+          "Технологический стек: Java 8, Spring Web, Spring Boot, Spring Core, Spring Security, Spring Data, Oracle, MongoDB,\nPostgreSQL, Apache Kafka, Kafka Streams, REST, JSON, JUnit 5, Gradle, Prometheus, Maven, ELK, Grafana"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Опыт работы с инструментами поставки, включая Gradle и Maven.",
+        "quotes": [
+          "Технологический стек: Java 8, Spring Web, Spring Boot, Spring Core, Spring Security, Spring Data, Oracle, MongoDB,\nPostgreSQL, Apache Kafka, Kafka Streams, REST, JSON, JUnit 5, Gradle, Prometheus, Maven, ELK, Grafana"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 3,
+        "status": "partial",
+        "explanation": "Упоминание Kafka и Kafka Streams, но без конкретного применения.",
+        "quotes": [
+          "Технологический стек: Java 8, Spring Web, Spring Boot, Spring Core, Spring Security, Spring Data, Oracle, MongoDB,\nPostgreSQL, Apache Kafka, Kafka Streams, REST, JSON, JUnit 5, Gradle, Prometheus, Maven, ELK, Grafana"
+        ]
+      }
+    ],
+    "summary": "Кандидат имеет сильный опыт в Java и Spring, а также в работе с базами данных и тестированием. Есть опыт проектирования архитектуры и использования инструментов поставки. Упоминание Kafka требует более детального описания практического применения.",
+    "score": 88,
+    "strengths": [
+      "Java core",
+      "Spring и backend",
+      "Базы данных",
+      "Архитектура и интеграции",
+      "Тестирование",
+      "Инструменты поставки"
+    ],
+    "gaps": []
+  },
+  {
+    "file": "CV_039_Лебедев_Валерия.pdf",
+    "candidate_id": "CV_039_Лебедев_Валерия",
+    "status": "done",
+    "mode": "model",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается использование Java 8 и оптимизация запросов, что подтверждает опыт работы с Java core.",
+        "quotes": [
+          "Технологический стек: Java 8, Spring Core, Spring Data, MySQL, RabbitMQ, REST, JSON"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается использование Spring Core и Spring Data, а также проектирование REST API.",
+        "quotes": [
+          "Технологический стек: Java 8, Spring Core, Spring Data, MySQL, RabbitMQ, REST, JSON",
+          "проектирование REST API и интеграционных контрактов"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается опыт работы с MySQL, оптимизация запросов и схем хранения данных.",
+        "quotes": [
+          "оптимизация запросов и схем хранения данных",
+          "Технологический стек: Java 8, Spring Core, Spring Data, MySQL"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается участие в проектировании архитектуры сервисов и использование микросервисов.",
+        "quotes": [
+          "участие в проектировании архитектуры сервисов",
+          "перевёл модульный монолит на набор из 6 микросервисов"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 3,
+        "status": "confirmed",
+        "explanation": "Упоминается написание unit- и интеграционных тестов, но нет подробностей о методах.",
+        "quotes": [
+          "написание unit- и интеграционных тестов"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается использование Docker, Kubernetes и Maven, что подтверждает опыт с инструментами поставки.",
+        "quotes": [
+          "Технологический стек: Java 8, Spring Core, Spring Data, MySQL, RabbitMQ, REST, JSON, Testcontainers, Kubernetes,\nDocker, Maven"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 0,
+        "status": "missing",
+        "explanation": "Нет упоминаний о Kafka Streams, Protobuf/gRPC или AI-агентах.",
+        "quotes": []
+      }
+    ],
+    "summary": "Кандидат имеет подтвержденный опыт работы с Java, Spring, базами данных и архитектурой микросервисов, а также с инструментами поставки. Опыт в тестировании также присутствует, но требует уточнения.",
+    "score": 74,
+    "strengths": [
+      "Java core",
+      "Spring и backend",
+      "Базы данных",
+      "Архитектура и интеграции",
+      "Инструменты поставки"
+    ],
+    "gaps": [
+      "Дополнительные технологии"
+    ]
+  },
+  {
+    "file": "CV_042_Зайцев_Даниил.pdf",
+    "candidate_id": "CV_042_Зайцев_Даниил",
+    "status": "done",
+    "mode": "model",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается разработка микросервисов на Java и написание тестов, что подтверждает опыт с Java 8+.",
+        "quotes": [
+          "разработка и сопровождение микросервисов на Java",
+          "написание unit- и интеграционных тестов"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Есть конкретные упоминания о Spring Boot, Spring Data и разработке REST API.",
+        "quotes": [
+          "Spring Data, Spring Web, Spring Boot, Spring Core",
+          "проектирование REST API и интеграционных контрактов"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается оптимизация запросов и схем хранения данных, что подтверждает опыт с базами данных.",
+        "quotes": [
+          "оптимизация запросов и схем хранения данных",
+          "снизил нагрузку на базу данных на 30%"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается разработка микросервисов и интеграция через брокеры сообщений, что подтверждает опыт в архитектуре.",
+        "quotes": [
+          "разработка и сопровождение микросервисов на Java",
+          "интеграция сервисов через брокеры сообщений"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается написание unit- и интеграционных тестов с использованием JUnit и Mockito.",
+        "quotes": [
+          "написание unit- и интеграционных тестов",
+          "Mockito, JUnit 5"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается использование GitLab CI и Maven, что подтверждает опыт с инструментами поставки.",
+        "quotes": [
+          "GitLab CI, Maven",
+          "разработка и сопровождение микросервисов на Java"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 0,
+        "status": "missing",
+        "explanation": "Прямого опыта с Kafka Streams и Protobuf нет.",
+        "quotes": []
+      }
+    ],
+    "summary": "Кандидат имеет подтвержденный опыт работы с Java, Spring, базами данных и архитектурой микросервисов, а также с тестированием и инструментами поставки. Отсутствует опыт с бонусными технологиями.",
+    "score": 80,
+    "strengths": [
+      "Java core",
+      "Spring и backend",
+      "Базы данных",
+      "Архитектура и интеграции",
+      "Тестирование",
+      "Инструменты поставки"
+    ],
+    "gaps": [
+      "Дополнительные технологии"
+    ]
+  },
+  {
+    "file": "CV_045_Волков_Екатерина.pdf",
+    "candidate_id": "CV_045_Волков_Екатерина",
+    "status": "done",
+    "mode": "model",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается использование Java 8 и участие в проектировании архитектуры сервисов.",
+        "quotes": [
+          "Технологический стек: Java 8, Spring Core, Spring Security"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается использование Spring Core и Spring Security, а также разработка backend-сервисов.",
+        "quotes": [
+          "Технологический стек: Java 8, Spring Core, Spring Security"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается опыт работы с MySQL и PostgreSQL, что подтверждает навыки работы с базами данных.",
+        "quotes": [
+          "Технологический стек: Java 8, Spring Core, Spring Security, Redis, MySQL, PostgreSQL, RabbitMQ, Kafka Streams, REST,"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается участие в проектировании архитектуры сервисов и использование RabbitMQ и Kafka Streams.",
+        "quotes": [
+          "участие в проектировании архитектуры сервисов",
+          "Технологический стек: Java 8, Spring Core, Spring Security, Redis, MySQL, PostgreSQL, RabbitMQ, Kafka Streams, REST,\nJSON, JUnit 5, Docker, Gradle, Jenkins, Grafana, Kubernetes, Git, ELK"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 3,
+        "status": "confirmed",
+        "explanation": "Упоминается написание unit- и интеграционных тестов, но нет подробностей о методах тестирования.",
+        "quotes": [
+          "написание unit- и интеграционных тестов"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается настройка CI/CD и использование Docker, что подтверждает навыки в инструментах поставки.",
+        "quotes": [
+          "настройка CI/CD и контейнеризация приложений",
+          "Технологический стек: Java 8, Spring Core, Spring Security, Redis, MySQL, PostgreSQL, RabbitMQ, Kafka Streams, REST,\nJSON, JUnit 5, Docker, Gradle, Jenkins, Grafana, Kubernetes, Git, ELK"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 2,
+        "status": "partial",
+        "explanation": "Упоминается использование Kafka Streams, но нет подробностей о практическом применении.",
+        "quotes": [
+          "Технологический стек: Java 8, Spring Core, Spring Security, Redis, MySQL, PostgreSQL, RabbitMQ, Kafka Streams, REST,\nJSON, JUnit 5, Docker, Gradle, Jenkins, Grafana, Kubernetes, Git, ELK"
+        ]
+      }
+    ],
+    "summary": "Кандидат имеет подтвержденный опыт работы с Java 8, Spring, базами данных и инструментами поставки, а также участие в проектировании архитектуры. Однако, требуется больше информации о тестировании и практическом применении дополнительных технологий.",
+    "score": 76,
+    "strengths": [
+      "Java core",
+      "Spring и backend",
+      "Базы данных",
+      "Архитектура и интеграции",
+      "Инструменты поставки"
+    ],
+    "gaps": []
+  },
+  {
+    "file": "CV_048_Щербаков_Егор.pdf",
+    "candidate_id": "CV_048_Щербаков_Егор",
+    "status": "done",
+    "mode": "model",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается использование Java 11 и участие в проектировании архитектуры сервисов, что подтверждает опыт работы с Java.",
+        "quotes": [
+          "Технологический стек: Java 11, Spring Boot, Spring Core"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается использование Spring Boot, Spring Core, Spring Security и разработка backend-сервисов.",
+        "quotes": [
+          "Технологический стек: Java 11, Spring Boot, Spring Core, Spring Security"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается оптимизация запросов и схем хранения данных, а также использование MySQL и ClickHouse.",
+        "quotes": [
+          "оптимизация запросов и схем хранения данных",
+          "Технологический стек: Java 11, Spring Boot, Spring Core, Spring Security, Spring Web, Spring Data, MySQL, ClickHouse,"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 3,
+        "status": "partial",
+        "explanation": "Упоминается участие в проектировании архитектуры сервисов и интеграция через брокеры сообщений, но нет конкретных деталей.",
+        "quotes": [
+          "участие в проектировании архитектуры сервисов",
+          "интеграция сервисов через брокеры сообщений"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается написание unit- и интеграционных тестов, а также использование JUnit 5.",
+        "quotes": [
+          "написание unit- и интеграционных тестов",
+          "Технологический стек: Java 11, Spring Boot, Spring Core, Spring Security, Spring Web, Spring Data, MySQL, ClickHouse,\nApache Kafka, REST, JSON, REST Assured, JUnit 5, WireMock, Jenkins, Gradle, Maven, Docker"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается использование Jenkins, Gradle, Maven и Docker, что подтверждает опыт с инструментами поставки.",
+        "quotes": [
+          "Технологический стек: Java 11, Spring Boot, Spring Core, Spring Security, Spring Web, Spring Data, MySQL, ClickHouse,\nApache Kafka, REST, JSON, REST Assured, JUnit 5, WireMock, Jenkins, Gradle, Maven, Docker"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 2,
+        "status": "partial",
+        "explanation": "Упоминается использование Apache Kafka, но нет конкретных деталей о применении Kafka Streams или gRPC.",
+        "quotes": [
+          "Технологический стек: Java 11, Spring Boot, Spring Core, Spring Security, Spring Web, Spring Data, MySQL, ClickHouse,\nApache Kafka, REST, JSON, REST Assured, JUnit 5, WireMock, Jenkins, Gradle, Maven, Docker"
+        ]
+      }
+    ],
+    "summary": "Кандидат имеет подтвержденный опыт работы с Java, Spring и базами данных, а также навыки тестирования и использования инструментов поставки. Есть упоминания о проектировании архитектуры и интеграции сервисов, но недостаточно деталей для более высокой оценки.",
+    "score": 75,
+    "strengths": [
+      "Java core",
+      "Spring и backend",
+      "Базы данных",
+      "Тестирование",
+      "Инструменты поставки"
+    ],
+    "gaps": []
+  },
+  {
+    "file": "CV_054_Никитин_Илья.pdf",
+    "candidate_id": "CV_054_Никитин_Илья",
+    "status": "done",
+    "mode": "model",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается использование Java 8 в контексте разработки микросервисов и оптимизации производительности.",
+        "quotes": [
+          "Java 8, Spring Boot, Spring Web"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Есть опыт разработки микросервисов с использованием Spring Boot и проектирования REST API.",
+        "quotes": [
+          "разработка и сопровождение микросервисов на Java",
+          "проектирование REST API и интеграционных контрактов"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается оптимизация запросов и схем хранения данных, что подтверждает опыт работы с базами данных.",
+        "quotes": [
+          "оптимизация запросов и схем хранения данных"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается перевод модульного монолита на микросервисы и работа с интеграционными контрактами.",
+        "quotes": [
+          "перевёл модульный монолит на набор из 6 микросервисов",
+          "проектирование REST API и интеграционных контрактов"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается использование JUnit 5 и Testcontainers для тестирования.",
+        "quotes": [
+          "Testcontainers, WireMock, JUnit 5, REST Assured, Git, Kubernetes, Docker, Prometheus, GitLab CI, ELK, Gradle"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается использование Git, Docker, Kubernetes и CI/CD в проектах.",
+        "quotes": [
+          "Testcontainers, WireMock, JUnit 5, REST Assured, Git, Kubernetes, Docker, Prometheus, GitLab CI, ELK, Gradle"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 1,
+        "status": "partial",
+        "explanation": "Упоминается изучение документации по Kafka Streams и Protobuf, но нет практического опыта.",
+        "quotes": [
+          "Прямого опыта с Kafka Streams и Protobuf нет"
+        ]
+      }
+    ],
+    "summary": "Кандидат имеет подтвержденный опыт работы с Java 8, Spring, базами данных и тестированием, а также знаком с инструментами поставки. Есть частичное знание дополнительных технологий, но без практического применения.",
+    "score": 77,
+    "strengths": [
+      "Java core",
+      "Spring и backend",
+      "Базы данных",
+      "Архитектура и интеграции",
+      "Тестирование",
+      "Инструменты поставки"
+    ],
+    "gaps": []
+  },
+  {
+    "file": "CV_058_Романов_Татьяна.pdf",
+    "candidate_id": "CV_058_Романов_Татьяна",
+    "status": "done",
+    "mode": "model",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Подтверждённый коммерческий опыт Java 8+ с упоминанием о качестве разработки.",
+        "quotes": [
+          "Java 8"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Практический опыт с Spring Core, Spring Data, Spring Web и Spring Security в разработке backend-сервисов.",
+        "quotes": [
+          "Spring Core, Spring Data, Spring Web, Spring Security"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Опыт с PostgreSQL, проектированием схем и оптимизацией запросов.",
+        "quotes": [
+          "оптимизация запросов и схем хранения данных",
+          "PostgreSQL"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Опыт разработки микросервисов и интеграции через брокеры сообщений.",
+        "quotes": [
+          "интеграция сервисов через брокеры сообщений",
+          "разработка и сопровождение микросервисов на Java"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 3,
+        "status": "confirmed",
+        "explanation": "Упоминание о написании unit- и интеграционных тестов.",
+        "quotes": [
+          "написание unit- и интеграционных тестов"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Опыт настройки CI/CD и контейнеризации приложений с использованием Docker и Jenkins.",
+        "quotes": [
+          "настройка CI/CD и контейнеризация приложений",
+          "Jenkins, Git, Grafana, Docker"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 0,
+        "status": "missing",
+        "explanation": "Нет сведений о практическом опыте с Kafka Streams или Protobuf.",
+        "quotes": []
+      }
+    ],
+    "summary": "Кандидат имеет сильный опыт в Java и Spring, а также в разработке микросервисов и работе с базами данных. Однако отсутствует опыт с бонусными технологиями.",
+    "score": 83,
+    "strengths": [
+      "Java core",
+      "Spring и backend",
+      "Базы данных",
+      "Архитектура и интеграции",
+      "Инструменты поставки"
+    ],
+    "gaps": [
+      "Дополнительные технологии"
+    ]
+  },
+  {
+    "file": "CV_062_Титов_Дарья.pdf",
+    "candidate_id": "CV_062_Титов_Дарья",
+    "status": "done",
+    "mode": "model",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Есть подтвержденный опыт работы с Java 8, включая оптимизацию и качество разработки.",
+        "quotes": [
+          "Java 8, Spring Boot, Spring Data, MongoDB, Oracle, ClickHouse"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Есть опыт разработки с использованием Spring Boot и проектирования REST API.",
+        "quotes": [
+          "проектирование REST API и интеграционных контрактов",
+          "Java 8, Spring Boot, Spring Data"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Опыт работы с SQL и NoSQL, проектированием схем и оптимизацией запросов.",
+        "quotes": [
+          "оптимизация запросов и схем хранения данных",
+          "MongoDB, Oracle, ClickHouse"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Опыт проектирования архитектуры сервисов и работы с интеграционными контрактами.",
+        "quotes": [
+          "участие в проектировании архитектуры сервисов",
+          "проектирование REST API и интеграционных контрактов"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминание о тестировании с использованием Testcontainers и REST Assured.",
+        "quotes": [
+          "WireMock, Testcontainers, REST Assured"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Опыт работы с инструментами CI/CD, Docker и Kubernetes.",
+        "quotes": [
+          "настройка CI/CD и контейнеризация приложений",
+          "Gradle, Docker, Jenkins, Grafana, Prometheus, Kubernetes, GitLab CI"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 1,
+        "status": "partial",
+        "explanation": "Упоминание о Kafka, но нет практического опыта с Kafka Streams или Protobuf.",
+        "quotes": [
+          "Apache Kafka"
+        ]
+      }
+    ],
+    "summary": "Кандидат имеет сильный опыт в Java, Spring, работе с базами данных и архитектурой, а также в тестировании и инструментах поставки. Упоминание о Kafka без практического опыта с бонусными технологиями.",
+    "score": 94,
+    "strengths": [
+      "Java core",
+      "Spring и backend",
+      "Базы данных",
+      "Архитектура и интеграции",
+      "Тестирование",
+      "Инструменты поставки"
+    ],
+    "gaps": []
+  },
+  {
+    "file": "CV_069_Семёнов_Полина.pdf",
+    "candidate_id": "CV_069_Семёнов_Полина",
+    "status": "done",
+    "mode": "model",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Подтверждённый коммерческий опыт Java 8+, включая использование коллекций и concurrency.",
+        "quotes": [
+          "разработка и сопровождение микросервисов на Java",
+          "Технологический стек: Java 8"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Практический опыт работы с Spring Boot и разработка backend-сервисов.",
+        "quotes": [
+          "разработка и сопровождение микросервисов на Java",
+          "Технологический стек: Java 8, Spring Core, Spring Boot, Spring Data, Spring Web, Spring Security, ClickHouse,"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Опыт работы с SQL базами данных, проектирование схем и оптимизация запросов.",
+        "quotes": [
+          "ClickHouse,\nPostgreSQL, Oracle",
+          "снизил нагрузку на базу данных на 30%"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Опыт проектирования архитектуры микросервисов и интеграции через REST API.",
+        "quotes": [
+          "участие в проектировании архитектуры сервисов",
+          "проектирование REST API и интеграционных контрактов"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 3,
+        "status": "confirmed",
+        "explanation": "Опыт написания unit- и интеграционных тестов.",
+        "quotes": [
+          "написание unit- и интеграционных тестов"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Опыт работы с инструментами CI/CD и контейнеризацией приложений.",
+        "quotes": [
+          "настройка CI/CD и контейнеризация приложений",
+          "Технологический стек: Java 8, Spring Core, Spring Boot, Spring Data, Spring Web, Spring Security, ClickHouse,\nPostgreSQL, Oracle, Apache Kafka, Kafka Streams, REST, JSON, Testcontainers, Jenkins, GitLab CI, Gradle, Git,"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 3,
+        "status": "partial",
+        "explanation": "Упоминание Kafka и Kafka Streams, но без конкретного применения.",
+        "quotes": [
+          "Apache Kafka, Kafka Streams"
+        ]
+      }
+    ],
+    "summary": "Кандидат имеет подтверждённый опыт работы с Java 8+, Spring, базами данных и архитектурой микросервисов. Также есть опыт тестирования и CI/CD. Упоминание Kafka требует уточнения.",
+    "score": 86,
+    "strengths": [
+      "Java core",
+      "Spring и backend",
+      "Базы данных",
+      "Архитектура и интеграции",
+      "Инструменты поставки"
+    ],
+    "gaps": []
+  },
+  {
+    "file": "CV_073_Фёдоров_Алина.pdf",
+    "candidate_id": "CV_073_Фёдоров_Алина",
+    "status": "done",
+    "mode": "model",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Подтверждённый коммерческий опыт Java 8+, включая использование коллекций и concurrency.",
+        "quotes": [
+          "разработка и сопровождение микросервисов на Java",
+          "Технологический стек: Java 8"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Практический опыт разработки backend-сервисов с использованием Spring.",
+        "quotes": [
+          "разработка и сопровождение микросервисов на Java",
+          "Технологический стек: Java 8, Spring Web, Spring Security, Spring Core, Redis, Oracle, RabbitMQ, Kafka Streams, REST,"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Опыт работы с базами данных, включая проектирование схем и оптимизацию запросов.",
+        "quotes": [
+          "оптимизация запросов и схем хранения данных",
+          "Технологический стек: Java 8, Spring Web, Spring Security, Spring Core, Redis, Oracle, RabbitMQ, Kafka Streams, REST,"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Опыт работы с микросервисами и интеграцией через брокеры сообщений.",
+        "quotes": [
+          "разработка и сопровождение микросервисов на Java",
+          "интеграция сервисов через брокеры сообщений"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Опыт написания unit- и интеграционных тестов.",
+        "quotes": [
+          "написание unit- и интеграционных тестов",
+          "повысил покрытие критичных модулей тестами с 42% до 78%"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Опыт работы с инструментами поставки, включая CI/CD и контейнеризацию.",
+        "quotes": [
+          "настройка CI/CD и контейнеризация приложений",
+          "Технологический стек: Java 8, Spring Web, Spring Security, Spring Core, Redis, Oracle, RabbitMQ, Kafka Streams, REST,\nJSON, Protobuf, gRPC, Mockito, REST Assured, WireMock, Gradle, Grafana, Docker, Prometheus, Jenkins, ELK"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 3,
+        "status": "partial",
+        "explanation": "Упоминание Kafka Streams и gRPC, но без конкретного применения в проектах.",
+        "quotes": [
+          "Технологический стек: Java 8, Spring Web, Spring Security, Spring Core, Redis, Oracle, RabbitMQ, Kafka Streams, REST,\nJSON, Protobuf, gRPC, Mockito, REST Assured, WireMock, Gradle, Grafana, Docker, Prometheus, Jenkins, ELK"
+        ]
+      }
+    ],
+    "summary": "Кандидат имеет обширный опыт в Java-разработке, включая Spring, базы данных и тестирование. Упоминается опыт работы с микросервисами и инструментами CI/CD. Есть знания в области дополнительных технологий, но без практического применения.",
+    "score": 88,
+    "strengths": [
+      "Java core",
+      "Spring и backend",
+      "Базы данных",
+      "Архитектура и интеграции",
+      "Тестирование",
+      "Инструменты поставки"
+    ],
+    "gaps": []
+  },
+  {
+    "file": "CV_077_Широков_Кирилл.pdf",
+    "candidate_id": "CV_077_Широков_Кирилл",
+    "status": "done",
+    "mode": "model",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Указан опыт работы с Java 21 и упомянуты аспекты, связанные с качеством разработки.",
+        "quotes": [
+          "Технологический стек: Java 21"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Подтвержден опыт работы с Spring Boot и разработкой REST API.",
+        "quotes": [
+          "проектирование REST API",
+          "Технологический стек: Java 21, Spring Security, Spring Web, Spring Data, Spring Boot, PostgreSQL, ClickHouse, MongoDB,\nApache Kafka, Kafka Streams, REST, JSON, JUnit 5, WireMock, GitLab CI, Git, Kubernetes, Docker"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается опыт работы с SQL и NoSQL, а также оптимизация схем хранения данных.",
+        "quotes": [
+          "оптимизация запросов и схем хранения данных",
+          "Технологический стек: Java 21, Spring Security, Spring Web, Spring Data, Spring Boot, PostgreSQL, ClickHouse, MongoDB,"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Указан опыт интеграции сервисов и работы с брокерами сообщений.",
+        "quotes": [
+          "интеграция сервисов через брокеры сообщений",
+          "проектирование REST API и интеграционных контрактов"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается написание unit- и интеграционных тестов.",
+        "quotes": [
+          "написание unit- и интеграционных тестов"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Указан опыт настройки CI/CD и контейнеризации приложений.",
+        "quotes": [
+          "настройка CI/CD и контейнеризация приложений"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 3,
+        "status": "partial",
+        "explanation": "Упоминается опыт работы с Kafka и Kafka Streams, но нет конкретного контекста применения.",
+        "quotes": [
+          "Технологический стек: Java 21, Spring Security, Spring Web, Spring Data, Spring Boot, PostgreSQL, ClickHouse, MongoDB,\nApache Kafka, Kafka Streams, REST, JSON, JUnit 5, WireMock, GitLab CI, Git, Kubernetes, Docker"
+        ]
+      }
+    ],
+    "summary": "Кандидат имеет подтвержденный опыт работы с Java, Spring, базами данных, архитектурой, тестированием и инструментами поставки. Опыт с дополнительными технологиями частично подтвержден.",
+    "score": 90,
+    "strengths": [
+      "Java core",
+      "Spring и backend",
+      "Базы данных",
+      "Архитектура и интеграции",
+      "Тестирование",
+      "Инструменты поставки"
+    ],
+    "gaps": []
+  },
+  {
+    "file": "CV_080_Соколов_Надежда.pdf",
+    "candidate_id": "CV_080_Соколов_Надежда",
+    "status": "done",
+    "mode": "model",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается разработка микросервисов на Java и использование Java 21, что подтверждает опыт с Java 8+.",
+        "quotes": [
+          "разработка и сопровождение микросервисов на Java",
+          "Технологический стек: Java 21"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается использование Spring Boot и разработка REST API, что подтверждает опыт с Spring и backend.",
+        "quotes": [
+          "Spring Data, Spring Security, Spring Core, Spring Boot",
+          "проектирование REST API и интеграционных контрактов"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается оптимизация запросов и схем хранения данных, а также использование PostgreSQL.",
+        "quotes": [
+          "оптимизация запросов и схем хранения данных",
+          "Технологический стек: Java 21, Spring Data, Spring Security, Spring Core, Spring Boot, PostgreSQL, Apache Kafka, REST,"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается интеграция сервисов через брокеры сообщений и проектирование интеграционных контрактов.",
+        "quotes": [
+          "интеграция сервисов через брокеры сообщений",
+          "проектирование REST API и интеграционных контрактов"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается написание unit- и интеграционных тестов с использованием Mockito.",
+        "quotes": [
+          "написание unit- и интеграционных тестов",
+          "Технологический стек: Java 21, Spring Data, Spring Security, Spring Core, Spring Boot, PostgreSQL, Apache Kafka, REST,\nJSON, Mockito, Jenkins, Docker, Git, Maven, Kubernetes, ELK, Prometheus"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается настройка CI/CD и контейнеризация приложений, а также использование Docker и Git.",
+        "quotes": [
+          "настройка CI/CD и контейнеризация приложений",
+          "Технологический стек: Java 21, Spring Data, Spring Security, Spring Core, Spring Boot, PostgreSQL, Apache Kafka, REST,\nJSON, Mockito, Jenkins, Docker, Git, Maven, Kubernetes, ELK, Prometheus"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 0,
+        "status": "missing",
+        "explanation": "Нет упоминания о практическом применении Kafka Streams, Protobuf/gRPC или AI-агентов.",
+        "quotes": []
+      }
+    ],
+    "summary": "Кандидат имеет подтвержденный опыт работы с Java, Spring, базами данных, архитектурой, тестированием и инструментами поставки, но не имеет опыта с бонусными технологиями.",
+    "score": 76,
+    "strengths": [
+      "Java core",
+      "Spring и backend",
+      "Базы данных",
+      "Архитектура и интеграции",
+      "Тестирование",
+      "Инструменты поставки"
+    ],
+    "gaps": [
+      "Дополнительные технологии"
+    ]
+  },
+  {
+    "file": "CV_085_Волков_Екатерина.pdf",
+    "candidate_id": "CV_085_Волков_Екатерина",
+    "status": "done",
+    "mode": "model",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Подтверждённый коммерческий опыт Java 8+, включая использование коллекций и concurrency.",
+        "quotes": [
+          "разработка и сопровождение микросервисов на Java",
+          "Java 8"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Практический опыт работы с Spring Boot и разработка backend-сервисов.",
+        "quotes": [
+          "Spring Data, Spring Boot, Spring Web, Spring Core, Spring Security"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Опыт с SQL, проектированием схем и оптимизацией запросов.",
+        "quotes": [
+          "оптимизация запросов и схем хранения данных",
+          "Oracle"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Опыт проектирования архитектуры сервисов и работы с микросервисами.",
+        "quotes": [
+          "участие в проектировании архитектуры сервисов",
+          "перевёл модульный монолит на набор из 6 микросервисов"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Опыт написания unit- и интеграционных тестов с использованием JUnit и Mockito.",
+        "quotes": [
+          "написание unit- и интеграционных тестов",
+          "повысил покрытие критичных модулей тестами с 42% до 78%"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Опыт работы с инструментами CI/CD и контейнеризацией приложений.",
+        "quotes": [
+          "настройка CI/CD и контейнеризация приложений",
+          "Streams, REST, JSON, Protobuf, JUnit 5, Mockito, Testcontainers, Jenkins, ELK, Gradle, Grafana, Maven, Kubernetes"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 3,
+        "status": "partial",
+        "explanation": "Упоминание Kafka Streams и Protobuf, но без конкретного применения.",
+        "quotes": [
+          "Технологический стек: Java 8, Spring Data, Spring Boot, Spring Web, Spring Core, Spring Security, Oracle, RabbitMQ, Kafka\nStreams, REST, JSON, Protobuf, JUnit 5, Mockito, Testcontainers, Jenkins, ELK, Gradle, Grafana, Maven, Kubernetes"
+        ]
+      }
+    ],
+    "summary": "Кандидат имеет обширный опыт в Java-разработке, включая работу с Spring, базами данных и тестированием. Также есть опыт в архитектуре микросервисов и CI/CD. Упоминание дополнительных технологий требует уточнения.",
+    "score": 88,
+    "strengths": [
+      "Java core",
+      "Spring и backend",
+      "Базы данных",
+      "Архитектура и интеграции",
+      "Тестирование",
+      "Инструменты поставки"
+    ],
+    "gaps": []
+  },
+  {
+    "file": "CV_090_Макаров_Юрий.pdf",
+    "candidate_id": "CV_090_Макаров_Юрий",
+    "status": "done",
+    "mode": "model",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Подтверждённый коммерческий опыт Java 8+, включая работу с коллекциями и многопоточностью.",
+        "quotes": [
+          "разработка и сопровождение микросервисов на Java",
+          "Java 8"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Практический опыт работы с Spring Boot и разработкой backend-сервисов.",
+        "quotes": [
+          "Spring Web, Spring Data, Spring Boot"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Опыт работы с SQL и NoSQL, проектированием схем и оптимизацией запросов.",
+        "quotes": [
+          "оптимизация запросов и схем хранения данных",
+          "MySQL, MongoDB"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Опыт разработки микросервисов и работы с REST API.",
+        "quotes": [
+          "перевёл модульный монолит на набор из 6 микросервисов",
+          "разработка и сопровождение микросервисов на Java"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Опыт написания unit- и интеграционных тестов с использованием JUnit и Mockito.",
+        "quotes": [
+          "написание unit- и интеграционных тестов",
+          "JUnit 5, Mockito"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Опыт настройки CI/CD и контейнеризации приложений.",
+        "quotes": [
+          "настройка CI/CD и контейнеризация приложений"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 1,
+        "status": "partial",
+        "explanation": "Упоминание о Kafka, но без практического применения Kafka Streams или Protobuf.",
+        "quotes": [
+          "Apache Kafka"
+        ]
+      }
+    ],
+    "summary": "Кандидат имеет обширный опыт в Java и Spring, а также в разработке микросервисов и тестировании. Есть опыт работы с базами данных и CI/CD. Упоминание о Kafka, но без практического применения дополнительных технологий.",
+    "score": 89,
+    "strengths": [
+      "Java core",
+      "Spring и backend",
+      "Базы данных",
+      "Архитектура и интеграции",
+      "Тестирование",
+      "Инструменты поставки"
+    ],
+    "gaps": []
+  },
+  {
+    "file": "CV_093_Иванов_Вадим.pdf",
+    "candidate_id": "CV_093_Иванов_Вадим",
+    "status": "done",
+    "mode": "model",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Подтверждённый коммерческий опыт Java 8+ с упоминанием Java 17 и разработки микросервисов.",
+        "quotes": [
+          "разработка и сопровождение микросервисов на Java",
+          "Технологический стек: Java 17"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Практический опыт с Spring Web, Spring Security и разработка REST API.",
+        "quotes": [
+          "Spring Web, Spring Security, Spring Core",
+          "проектирование REST API и интеграционных контрактов"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Опыт оптимизации запросов и схем хранения данных.",
+        "quotes": [
+          "оптимизация запросов и схем хранения данных"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Опыт работы с микросервисами и интеграцией через брокеры сообщений.",
+        "quotes": [
+          "разработка и сопровождение микросервисов на Java",
+          "интеграция сервисов через брокеры сообщений"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Опыт написания тестов с использованием JUnit и Mockito.",
+        "quotes": [
+          "Mockito, Testcontainers, JUnit 5, REST Assured"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Опыт работы с Git, CI/CD и контейнеризацией приложений.",
+        "quotes": [
+          "настройка CI/CD и контейнеризация приложений",
+          "GitLab CI, Gradle, Kubernetes, Docker"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 3,
+        "status": "partial",
+        "explanation": "Упоминание Kafka Streams, но без конкретного применения.",
+        "quotes": [
+          "Kafka Streams"
+        ]
+      }
+    ],
+    "summary": "Кандидат имеет обширный опыт в Java-разработке, включая работу с микросервисами, Spring и тестированием. Есть опыт в оптимизации баз данных и CI/CD. Упоминается использование Kafka Streams, но без конкретного контекста применения.",
+    "score": 88,
+    "strengths": [
+      "Java core",
+      "Spring и backend",
+      "Базы данных",
+      "Архитектура и интеграции",
+      "Тестирование",
+      "Инструменты поставки"
+    ],
+    "gaps": []
+  },
+  {
+    "file": "CV_095_Чернов_Павел.pdf",
+    "candidate_id": "CV_095_Чернов_Павел",
+    "status": "done",
+    "mode": "model",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается разработка микросервисов на Java и оптимизация запросов, что подтверждает опыт с Java 8+.",
+        "quotes": [
+          "разработка и сопровождение микросервисов на Java",
+          "оптимизация запросов и схем хранения данных"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Есть конкретные упоминания о Spring Boot, Spring Core и разработке REST API.",
+        "quotes": [
+          "разработка и сопровождение микросервисов на Java",
+          "проектирование REST API и интеграционных контрактов"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается работа с PostgreSQL, MongoDB, MySQL и оптимизация схем хранения данных.",
+        "quotes": [
+          "оптимизация запросов и схем хранения данных",
+          "PostgreSQL,\nMongoDB, MySQL"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается интеграция сервисов через брокеры сообщений и проектирование интеграционных контрактов.",
+        "quotes": [
+          "интеграция сервисов через брокеры сообщений",
+          "проектирование REST API и интеграционных контрактов"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 3,
+        "status": "partial",
+        "explanation": "Упоминается написание unit- и интеграционных тестов, но нет подробностей о применяемых инструментах.",
+        "quotes": [
+          "написание unit- и интеграционных тестов"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается настройка CI/CD и контейнеризация приложений, а также использование Git и Gradle.",
+        "quotes": [
+          "настройка CI/CD и контейнеризация приложений",
+          "Git, Gradle"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 0,
+        "status": "missing",
+        "explanation": "Нет упоминаний о Kafka Streams, Protobuf/gRPC или AI-агентах.",
+        "quotes": []
+      }
+    ],
+    "summary": "Кандидат имеет подтвержденный опыт работы с Java, Spring и базами данных, а также навыки в архитектуре и инструментах поставки. Есть упоминания о тестировании, но без конкретных инструментов. Отсутствуют сведения о бонусных технологиях.",
+    "score": 78,
+    "strengths": [
+      "Java core",
+      "Spring и backend",
+      "Базы данных",
+      "Архитектура и интеграции",
+      "Инструменты поставки"
+    ],
+    "gaps": [
+      "Дополнительные технологии"
+    ]
+  },
+  {
+    "file": "CV_098_Романов_Татьяна.pdf",
+    "candidate_id": "CV_098_Романов_Татьяна",
+    "status": "done",
+    "mode": "model",
+    "criteria": [
+      {
+        "criterion_id": "java_core",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается использование Java 11 в контексте разработки, а также участие в проектировании архитектуры сервисов.",
+        "quotes": [
+          "Технологический стек: Java 11, Spring Boot, Spring Data, Spring Core, Spring Security, Spring Web"
+        ]
+      },
+      {
+        "criterion_id": "spring_backend",
+        "score": 5,
+        "status": "confirmed",
+        "explanation": "Есть конкретные упоминания о Spring Boot и разработке REST API, а также о настройке CI/CD.",
+        "quotes": [
+          "настройка CI/CD и контейнеризация приложений",
+          "проектирование REST API и интеграционных контрактов"
+        ]
+      },
+      {
+        "criterion_id": "data",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается работа с ClickHouse и MongoDB, что подтверждает опыт с базами данных.",
+        "quotes": [
+          "Технологический стек: Java 11, Spring Boot, Spring Data, Spring Core, Spring Security, Spring Web, ClickHouse, MongoDB,"
+        ]
+      },
+      {
+        "criterion_id": "architecture",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается проектирование архитектуры сервисов и интеграция через брокеры сообщений.",
+        "quotes": [
+          "участие в проектировании архитектуры сервисов",
+          "интеграция сервисов через брокеры сообщений"
+        ]
+      },
+      {
+        "criterion_id": "testing",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается написание unit- и интеграционных тестов с использованием Testcontainers.",
+        "quotes": [
+          "написание unit- и интеграционных тестов",
+          "REST Assured, Testcontainers"
+        ]
+      },
+      {
+        "criterion_id": "delivery",
+        "score": 4,
+        "status": "confirmed",
+        "explanation": "Упоминается использование Git, Maven, Jenkins и настройка CI/CD.",
+        "quotes": [
+          "настройка CI/CD и контейнеризация приложений",
+          "Gradle, Maven, Jenkins"
+        ]
+      },
+      {
+        "criterion_id": "bonus",
+        "score": 1,
+        "status": "partial",
+        "explanation": "Упоминается изучение документации и учебных примеров по Kafka Streams и Protobuf, но нет практического опыта.",
+        "quotes": [
+          "Прямого опыта с Kafka Streams и Protobuf нет; изучал документацию и учебные примеры"
+        ]
+      }
+    ],
+    "summary": "Кандидат имеет значительный опыт в Java-разработке, включая использование Spring и работу с базами данных. Есть подтвержденные навыки в тестировании и инструментах поставки. Однако, опыт с дополнительными технологиями ограничен.",
+    "score": 81,
+    "strengths": [
+      "Java core",
+      "Spring и backend",
+      "Базы данных",
+      "Архитектура и интеграции",
+      "Тестирование",
+      "Инструменты поставки"
+    ],
+    "gaps": []
+  }
+]

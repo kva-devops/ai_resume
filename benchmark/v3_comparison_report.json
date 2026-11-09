@@ -1,0 +1,16 @@
+{
+  "sample_size": 25,
+  "reference_mean": 79.16,
+  "v3_mean": 79.32,
+  "delta": 0.16,
+  "reference_range": [
+    66.0,
+    87.0
+  ],
+  "v3_range": [
+    62,
+    94
+  ],
+  "over_5": 6,
+  "under_5": 6
+}

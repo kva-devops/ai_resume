@@ -1,0 +1,5 @@
+
+Агент по аналитике резюме:
+1) ссылка на генерацию ТЗ https://chatgpt.com/s/cx_6ac7d78af8848191b0773f20b21b802c
+2) ссылка на генерацию Агента https://chatgpt.com/s/cx_6ac7d7b8da0c819199b18ad6af9f705a
+3) ссылка на архив с историей улучшения промптов https://drive.google.com/file/d/1OKQq9jZK_5gCMHFWYH_Mxbk9rEuRarT1/view?usp=sharing

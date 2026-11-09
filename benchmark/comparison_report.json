@@ -1,0 +1,96 @@
+{
+  "sample_size": 50,
+  "reference_score_range": [
+    72.0,
+    89.0
+  ],
+  "current_score_range": [
+    93,
+    100
+  ],
+  "mean_reference_score": 81.92,
+  "mean_current_score": 97.36,
+  "mean_score_delta_current_minus_reference": 15.44,
+  "over_scored_candidates": 49,
+  "under_scored_candidates": 0,
+  "criterion_mean_deltas": {
+    "Java core": 1.1,
+    "Spring и backend": 1.02,
+    "Базы данных": 0.68,
+    "Архитектура и интеграции": 0.34,
+    "Тестирование": 0.62,
+    "Инструменты поставки": 0.32,
+    "Дополнительные технологии": 0.92
+  },
+  "criterion_over_scored_3plus_count": {
+    "Java core": 0,
+    "Spring и backend": 0,
+    "Базы данных": 0,
+    "Архитектура и интеграции": 0,
+    "Тестирование": 0,
+    "Инструменты поставки": 0,
+    "Дополнительные технологии": 4
+  },
+  "status_disagreements": [
+    {
+      "criterion": "Дополнительные технологии",
+      "reference": "partial",
+      "current": "confirmed",
+      "count": 20
+    },
+    {
+      "criterion": "Дополнительные технологии",
+      "reference": "partial",
+      "current": "missing",
+      "count": 12
+    },
+    {
+      "criterion": "Тестирование",
+      "reference": "partial",
+      "current": "confirmed",
+      "count": 5
+    },
+    {
+      "criterion": "Java core",
+      "reference": "partial",
+      "current": "confirmed",
+      "count": 5
+    },
+    {
+      "criterion": "Дополнительные технологии",
+      "reference": "contradiction",
+      "current": "missing",
+      "count": 4
+    },
+    {
+      "criterion": "Базы данных",
+      "reference": "partial",
+      "current": "confirmed",
+      "count": 4
+    },
+    {
+      "criterion": "Дополнительные технологии",
+      "reference": "missing",
+      "current": "confirmed",
+      "count": 4
+    },
+    {
+      "criterion": "Инструменты поставки",
+      "reference": "partial",
+      "current": "confirmed",
+      "count": 3
+    },
+    {
+      "criterion": "Spring и backend",
+      "reference": "partial",
+      "current": "confirmed",
+      "count": 1
+    },
+    {
+      "criterion": "Тестирование",
+      "reference": "confirmed",
+      "current": "partial",
+      "count": 1
+    }
+  ]
+}

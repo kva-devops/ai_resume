@@ -1,0 +1,20 @@
+{
+  "name": "Эталонная шкала Java Developer",
+  "version": "benchmark-2026-10-08-v1",
+  "criteria": [
+    {"id": "java_core", "name": "Java core", "description": "Подтверждённый коммерческий опыт Java 8+; учитываются версии, коллекции, concurrency, JVM и качество разработки.", "type": "required", "weight": 25},
+    {"id": "spring_backend", "name": "Spring и backend", "description": "Практический опыт Spring Boot/Core/Web/Data/Security и разработки backend-сервисов или REST API.", "type": "required", "weight": 20},
+    {"id": "data", "name": "Базы данных", "description": "Опыт с SQL или NoSQL, проектированием схем, запросами, транзакциями и оптимизацией хранения данных.", "type": "required", "weight": 15},
+    {"id": "architecture", "name": "Архитектура и интеграции", "description": "Микросервисы, распределённые системы, REST/JSON и интеграционные контракты; учитываются Kafka/RabbitMQ и gRPC.", "type": "required", "weight": 15},
+    {"id": "testing", "name": "Тестирование", "description": "Unit-, интеграционные или функциональные тесты с JUnit, Mockito, Testcontainers и похожими инструментами.", "type": "required", "weight": 10},
+    {"id": "delivery", "name": "Инструменты поставки", "description": "Git, Maven/Gradle, Docker, CI/CD, Kubernetes и наблюдаемость; оценивается практическое применение.", "type": "required", "weight": 10},
+    {"id": "bonus", "name": "Дополнительные технологии", "description": "Kafka Streams, Protobuf/gRPC или AI-агенты. Это единый бонусный критерий, его вес ограничен 5 баллами.", "type": "bonus", "weight": 5}
+  ],
+  "rules": [
+    "Оценивай только дословно подтверждённые сведения из резюме.",
+    "Личные данные, контакты, возраст, пол и семейное положение не влияют на балл.",
+    "Если сведений нет, ставь 0 и статус missing; не трактуй это как доказанное отсутствие навыка.",
+    "Каждая положительная или противоречащая оценка требует точной цитаты из резюме.",
+    "Итоговый балл считай как сумму weight * score / 5; автоматического решения о найме нет."
+  ]
+}

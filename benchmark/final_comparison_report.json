@@ -1,0 +1,25 @@
+{
+  "sample_size": 25,
+  "reference_mean": 76.0,
+  "current_mean": 80.72,
+  "delta_current_minus_reference": 4.72,
+  "reference_range": [
+    64.0,
+    90.0
+  ],
+  "current_range": [
+    64,
+    100
+  ],
+  "over_scored": 12,
+  "under_scored": 3,
+  "criterion_deltas": {
+    "java_core": 0.32,
+    "spring_backend": 0.64,
+    "data": 0.44,
+    "architecture": -0.12,
+    "testing": -0.32,
+    "delivery": -0.08,
+    "bonus": 0.4
+  }
+}
